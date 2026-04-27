@@ -1,0 +1,1411 @@
+dataset,model,scenario,region,variable,unit,year,value
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,NO02,Final Energy|Transportation|Liquids|Biomass,GWh,2023,7.14285700377337
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,NO02,Final Energy|Transportation|Liquids|Biomass,GWh,2023,288.836319101676
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,NO06,Final Energy|Transportation|Liquids|Biomass,GWh,2023,9.14718059298404
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,NO06,Final Energy|Transportation|Liquids|Biomass,GWh,2023,369.885323371319
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,NO07,Final Energy|Transportation|Liquids|Biomass,GWh,2023,9.2440301695177
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,NO07,Final Energy|Transportation|Liquids|Biomass,GWh,2023,373.801637974532
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,NO08,Final Energy|Transportation|Liquids|Biomass,GWh,2023,38.2595591839947
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,NO08,Final Energy|Transportation|Liquids|Biomass,GWh,2023,1547.10506444689
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,NO09,Final Energy|Transportation|Liquids|Biomass,GWh,2023,14.245490654008
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,NO09,Final Energy|Transportation|Liquids|Biomass,GWh,2023,576.046123018758
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,NO0A,Final Energy|Transportation|Liquids|Biomass,GWh,2023,26.896882395722
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,NO0A,Final Energy|Transportation|Liquids|Biomass,GWh,2023,1087.63153208681
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,UKC1,Final Energy|Transportation|Liquids|Biomass,GWh,2023,10.7687543131955
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,UKC1,Final Energy|Transportation|Liquids|Biomass,GWh,2023,478.492380029531
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,UKC1,Final Energy|Transportation|Solids|Biomass,GWh,2023,369.242446829995
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,UKC1,Final Energy|Transportation|Solids|Biomass,GWh,2023,0.0
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,UKC2,Final Energy|Transportation|Liquids|Biomass,GWh,2023,12.6382634765138
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,UKC2,Final Energy|Transportation|Liquids|Biomass,GWh,2023,579.236468059524
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,UKC2,Final Energy|Transportation|Solids|Biomass,GWh,2023,433.344767094548
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,UKC2,Final Energy|Transportation|Solids|Biomass,GWh,2023,0.0
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,UKD1,Final Energy|Transportation|Liquids|Biomass,GWh,2023,5.53222099349284
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,UKD1,Final Energy|Transportation|Liquids|Biomass,GWh,2023,198.993448711504
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,UKD1,Final Energy|Transportation|Solids|Biomass,GWh,2023,189.690539558367
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,UKD1,Final Energy|Transportation|Solids|Biomass,GWh,2023,0.0
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,UKD3,Final Energy|Transportation|Liquids|Biomass,GWh,2023,20.6218306688475
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,UKD3,Final Energy|Transportation|Liquids|Biomass,GWh,2023,1121.58084737905
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,UKD3,Final Energy|Transportation|Solids|Biomass,GWh,2023,707.087838836538
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,UKD3,Final Energy|Transportation|Solids|Biomass,GWh,2023,0.0
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,UKD4,Final Energy|Transportation|Liquids|Biomass,GWh,2023,12.3044225544927
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,UKD4,Final Energy|Transportation|Liquids|Biomass,GWh,2023,595.297223968885
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,UKD4,Final Energy|Transportation|Solids|Biomass,GWh,2023,421.897924190163
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,UKD4,Final Energy|Transportation|Solids|Biomass,GWh,2023,0.0
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,UKD6,Final Energy|Transportation|Liquids|Biomass,GWh,2023,7.70695614265902
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,UKD6,Final Energy|Transportation|Liquids|Biomass,GWh,2023,370.574053665648
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,UKD6,Final Energy|Transportation|Solids|Biomass,GWh,2023,264.258544764071
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,UKD6,Final Energy|Transportation|Solids|Biomass,GWh,2023,0.0
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,UKD7,Final Energy|Transportation|Liquids|Biomass,GWh,2023,12.78133815738
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,UKD7,Final Energy|Transportation|Liquids|Biomass,GWh,2023,618.132806212695
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,UKD7,Final Energy|Transportation|Solids|Biomass,GWh,2023,438.250556910713
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,UKD7,Final Energy|Transportation|Solids|Biomass,GWh,2023,0.0
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,UKE1,Final Energy|Transportation|Liquids|Biomass,GWh,2023,10.8355224975997
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,UKE1,Final Energy|Transportation|Liquids|Biomass,GWh,2023,371.878533255809
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,UKE1,Final Energy|Transportation|Solids|Biomass,GWh,2023,371.531815410872
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,UKE1,Final Energy|Transportation|Solids|Biomass,GWh,2023,0.0
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,UKE2,Final Energy|Transportation|Liquids|Biomass,GWh,2023,6.09498140489988
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,UKE2,Final Energy|Transportation|Liquids|Biomass,GWh,2023,327.866925625846
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,UKE2,Final Energy|Transportation|Solids|Biomass,GWh,2023,208.986646168615
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,UKE2,Final Energy|Transportation|Solids|Biomass,GWh,2023,0.0
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,UKE3,Final Energy|Transportation|Liquids|Biomass,GWh,2023,11.4459744692955
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,UKE3,Final Energy|Transportation|Liquids|Biomass,GWh,2023,558.084806805338
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,UKE3,Final Energy|Transportation|Solids|Biomass,GWh,2023,392.463185293175
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,UKE3,Final Energy|Transportation|Solids|Biomass,GWh,2023,0.0
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,UKE4,Final Energy|Transportation|Liquids|Biomass,GWh,2023,19.6489228389574
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,UKE4,Final Energy|Transportation|Liquids|Biomass,GWh,2023,923.995725377559
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,UKE4,Final Energy|Transportation|Solids|Biomass,GWh,2023,673.728468086618
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,UKE4,Final Energy|Transportation|Solids|Biomass,GWh,2023,0.0
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,UKF1,Final Energy|Transportation|Liquids|Biomass,GWh,2023,22.7393359456672
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,UKF1,Final Energy|Transportation|Liquids|Biomass,GWh,2023,878.646886373483
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,UKF1,Final Energy|Transportation|Solids|Biomass,GWh,2023,779.693528115776
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,UKF1,Final Energy|Transportation|Solids|Biomass,GWh,2023,0.0
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,UKF2,Final Energy|Transportation|Liquids|Biomass,GWh,2023,18.5234020161433
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,UKF2,Final Energy|Transportation|Liquids|Biomass,GWh,2023,730.429486914406
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,UKF2,Final Energy|Transportation|Solids|Biomass,GWh,2023,635.136254866122
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,UKF2,Final Energy|Transportation|Solids|Biomass,GWh,2023,0.0
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,UKF3,Final Energy|Transportation|Liquids|Biomass,GWh,2023,5.68483398641678
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,UKF3,Final Energy|Transportation|Liquids|Biomass,GWh,2023,300.625829028245
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,UKF3,Final Energy|Transportation|Solids|Biomass,GWh,2023,194.923382028943
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,UKF3,Final Energy|Transportation|Solids|Biomass,GWh,2023,0.0
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,UKG1,Final Energy|Transportation|Liquids|Biomass,GWh,2023,13.9927037887138
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,UKG1,Final Energy|Transportation|Liquids|Biomass,GWh,2023,536.966696159107
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,UKG1,Final Energy|Transportation|Solids|Biomass,GWh,2023,479.786244020907
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,UKG1,Final Energy|Transportation|Solids|Biomass,GWh,2023,0.0
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,UKG2,Final Energy|Transportation|Liquids|Biomass,GWh,2023,16.5203564840166
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,UKG2,Final Energy|Transportation|Liquids|Biomass,GWh,2023,646.998311412009
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,UKG2,Final Energy|Transportation|Solids|Biomass,GWh,2023,566.455197439817
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,UKG2,Final Energy|Transportation|Solids|Biomass,GWh,2023,0.0
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,UKG3,Final Energy|Transportation|Liquids|Biomass,GWh,2023,23.7122437755573
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,UKG3,Final Energy|Transportation|Liquids|Biomass,GWh,2023,1161.81801161433
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,UKG3,Final Energy|Transportation|Solids|Biomass,GWh,2023,813.052898865696
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,UKG3,Final Energy|Transportation|Solids|Biomass,GWh,2023,0.0
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,UKH1,Final Energy|Transportation|Liquids|Biomass,GWh,2023,21.241820952601
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,UKH1,Final Energy|Transportation|Liquids|Biomass,GWh,2023,1002.15586072338
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,UKH1,Final Energy|Transportation|Solids|Biomass,GWh,2023,728.346261373252
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,UKH1,Final Energy|Transportation|Solids|Biomass,GWh,2023,0.0
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,UKH2,Final Energy|Transportation|Liquids|Biomass,GWh,2023,15.3280674767983
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,UKH2,Final Energy|Transportation|Liquids|Biomass,GWh,2023,742.82124419694
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,UKH2,Final Energy|Transportation|Solids|Biomass,GWh,2023,525.573615638444
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,UKH2,Final Energy|Transportation|Solids|Biomass,GWh,2023,0.0
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,UKH3,Final Energy|Transportation|Liquids|Biomass,GWh,2023,15.0991479874124
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,UKH3,Final Energy|Transportation|Liquids|Biomass,GWh,2023,730.503777546303
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,UKH3,Final Energy|Transportation|Solids|Biomass,GWh,2023,517.724351932581
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,UKH3,Final Energy|Transportation|Solids|Biomass,GWh,2023,0.0
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,UKI3,Final Energy|Transportation|Liquids|Biomass,GWh,2023,4.32085536215907
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,UKI3,Final Energy|Transportation|Liquids|Biomass,GWh,2023,468.75072136326
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,UKI3,Final Energy|Transportation|Solids|Biomass,GWh,2023,148.154852448173
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,UKI3,Final Energy|Transportation|Solids|Biomass,GWh,2023,0.0
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,UKI4,Final Energy|Transportation|Liquids|Biomass,GWh,2023,9.92938285211388
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,UKI4,Final Energy|Transportation|Liquids|Biomass,GWh,2023,959.760673455147
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,UKI4,Final Energy|Transportation|Solids|Biomass,GWh,2023,340.461813241829
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,UKI4,Final Energy|Transportation|Solids|Biomass,GWh,2023,0.0
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,UKI5,Final Energy|Transportation|Liquids|Biomass,GWh,2023,12.6191868523983
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,UKI5,Final Energy|Transportation|Liquids|Biomass,GWh,2023,768.511024588727
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,UKI5,Final Energy|Transportation|Solids|Biomass,GWh,2023,432.690661785725
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,UKI5,Final Energy|Transportation|Solids|Biomass,GWh,2023,0.0
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,UKI6,Final Energy|Transportation|Liquids|Biomass,GWh,2023,7.4017301568111
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,UKI6,Final Energy|Transportation|Liquids|Biomass,GWh,2023,522.776786055108
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,UKI6,Final Energy|Transportation|Solids|Biomass,GWh,2023,253.792859822918
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,UKI6,Final Energy|Transportation|Solids|Biomass,GWh,2023,0.0
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,UKI7,Final Energy|Transportation|Liquids|Biomass,GWh,2023,12.3711907388969
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,UKI7,Final Energy|Transportation|Liquids|Biomass,GWh,2023,834.896893603153
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,UKI7,Final Energy|Transportation|Solids|Biomass,GWh,2023,424.18729277104
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,UKI7,Final Energy|Transportation|Solids|Biomass,GWh,2023,0.0
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,UKJ1,Final Energy|Transportation|Liquids|Biomass,GWh,2023,18.8858578743376
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,UKJ1,Final Energy|Transportation|Liquids|Biomass,GWh,2023,959.590124531388
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,UKJ1,Final Energy|Transportation|Solids|Biomass,GWh,2023,647.564255733739
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,UKJ1,Final Energy|Transportation|Solids|Biomass,GWh,2023,0.0
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,UKJ2,Final Energy|Transportation|Liquids|Biomass,GWh,2023,18.3421740870461
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,UKJ2,Final Energy|Transportation|Liquids|Biomass,GWh,2023,1155.40585137537
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,UKJ2,Final Energy|Transportation|Solids|Biomass,GWh,2023,628.922254432315
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,UKJ2,Final Energy|Transportation|Solids|Biomass,GWh,2023,0.0
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,UKJ3,Final Energy|Transportation|Liquids|Biomass,GWh,2023,18.4757104558546
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,UKJ3,Final Energy|Transportation|Liquids|Biomass,GWh,2023,792.862375370402
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,UKJ3,Final Energy|Transportation|Solids|Biomass,GWh,2023,633.500991594069
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,UKJ3,Final Energy|Transportation|Solids|Biomass,GWh,2023,0.0
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,UKJ4,Final Energy|Transportation|Liquids|Biomass,GWh,2023,14.6794622568715
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,UKJ4,Final Energy|Transportation|Liquids|Biomass,GWh,2023,735.142947919762
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,UKJ4,Final Energy|Transportation|Solids|Biomass,GWh,2023,503.334035138498
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,UKJ4,Final Energy|Transportation|Solids|Biomass,GWh,2023,0.0
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,UKK1,Final Energy|Transportation|Liquids|Biomass,GWh,2023,22.6630294492052
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,UKK1,Final Energy|Transportation|Liquids|Biomass,GWh,2023,996.941137658738
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,UKK1,Final Energy|Transportation|Solids|Biomass,GWh,2023,777.077106880488
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,UKK1,Final Energy|Transportation|Solids|Biomass,GWh,2023,0.0
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,UKK2,Final Energy|Transportation|Liquids|Biomass,GWh,2023,10.9118289940617
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,UKK2,Final Energy|Transportation|Liquids|Biomass,GWh,2023,531.165236867283
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,UKK2,Final Energy|Transportation|Solids|Biomass,GWh,2023,374.14823664616
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,UKK2,Final Energy|Transportation|Solids|Biomass,GWh,2023,0.0
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,UKK3,Final Energy|Transportation|Liquids|Biomass,GWh,2023,4.72146446858438
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,UKK3,Final Energy|Transportation|Liquids|Biomass,GWh,2023,225.503221938134
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,UKK3,Final Energy|Transportation|Solids|Biomass,GWh,2023,161.891063933433
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,UKK3,Final Energy|Transportation|Solids|Biomass,GWh,2023,0.0
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,UKK4,Final Energy|Transportation|Liquids|Biomass,GWh,2023,8.48909773139421
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,UKK4,Final Energy|Transportation|Liquids|Biomass,GWh,2023,474.431558231254
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,UKK4,Final Energy|Transportation|Solids|Biomass,GWh,2023,291.076862425771
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,UKK4,Final Energy|Transportation|Solids|Biomass,GWh,2023,0.0
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,UKL1,Final Energy|Transportation|Liquids|Biomass,GWh,2023,16.1006707534757
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,UKL1,Final Energy|Transportation|Liquids|Biomass,GWh,2023,784.303775046467
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,UKL1,Final Energy|Transportation|Solids|Biomass,GWh,2023,552.064880645734
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,UKL1,Final Energy|Transportation|Solids|Biomass,GWh,2023,0.0
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,UKL2,Final Energy|Transportation|Liquids|Biomass,GWh,2023,10.0152276606336
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,UKL2,Final Energy|Transportation|Liquids|Biomass,GWh,2023,464.466628257299
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,UKL2,Final Energy|Transportation|Solids|Biomass,GWh,2023,343.405287131529
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,UKL2,Final Energy|Transportation|Solids|Biomass,GWh,2023,0.0
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,UKM5,Final Energy|Transportation|Liquids|Biomass,GWh,2023,7.45896002915758
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,UKM5,Final Energy|Transportation|Liquids|Biomass,GWh,2023,197.558760809524
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,UKM5,Final Energy|Transportation|Solids|Biomass,GWh,2023,255.755175749385
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,UKM5,Final Energy|Transportation|Solids|Biomass,GWh,2023,0.0
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,UKM6,Final Energy|Transportation|Liquids|Biomass,GWh,2023,4.09193587277317
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,UKM6,Final Energy|Transportation|Liquids|Biomass,GWh,2023,188.020402850971
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,UKM6,Final Energy|Transportation|Solids|Biomass,GWh,2023,140.30558874231
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,UKM6,Final Energy|Transportation|Solids|Biomass,GWh,2023,0.0
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,UKM7,Final Energy|Transportation|Liquids|Biomass,GWh,2023,16.5775863563631
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,UKM7,Final Energy|Transportation|Liquids|Biomass,GWh,2023,794.153674364583
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,UKM7,Final Energy|Transportation|Solids|Biomass,GWh,2023,568.417513366283
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,UKM7,Final Energy|Transportation|Solids|Biomass,GWh,2023,0.0
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,UKM8,Final Energy|Transportation|Liquids|Biomass,GWh,2023,12.0182731927603
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,UKM8,Final Energy|Transportation|Liquids|Biomass,GWh,2023,613.662587114997
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,UKM8,Final Energy|Transportation|Solids|Biomass,GWh,2023,412.086344557834
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,UKM8,Final Energy|Transportation|Solids|Biomass,GWh,2023,0.0
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,UKM9,Final Energy|Transportation|Liquids|Biomass,GWh,2023,8.60355747608713
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,UKM9,Final Energy|Transportation|Liquids|Biomass,GWh,2023,378.178059310929
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,UKM9,Final Energy|Transportation|Solids|Biomass,GWh,2023,295.001494278702
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,UKM9,Final Energy|Transportation|Solids|Biomass,GWh,2023,0.0
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,UKN0,Final Energy|Transportation|Liquids|Biomass,GWh,2023,14.5936174483518
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,UKN0,Final Energy|Transportation|Liquids|Biomass,GWh,2023,749.279736227835
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,UKN0,Final Energy|Transportation|Solids|Biomass,GWh,2023,500.390561248798
+E3M shares,GeoMEC_N2 v0.1.0,Unknown,UKN0,Final Energy|Transportation|Solids|Biomass,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,BE,Demand|Electricity|Energy Sector,GWh,2023,1659.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,BE,Demand|Electricity|Energy Sector,GWh,2023,1659.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,BE,Demand|Heat|Energy Sector,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,BE,Demand|Heat|Energy Sector,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,BE,Demand|Natural gas|Energy Sector,GWh,2023,5810.076
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,BE,Demand|Natural gas|Energy Sector,GWh,2023,5810.076
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,BE,Distribution losses|Electricity,GWh,2023,3653.4
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,BE,Distribution losses|Electricity,GWh,2023,3653.4
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,BE,Distribution losses|Heat,GWh,2023,308.194
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,BE,Distribution losses|Heat,GWh,2023,308.194
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,BE,Distribution losses|Natural gas,GWh,2023,280.933
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,BE,Distribution losses|Natural gas,GWh,2023,280.933
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,BE,Exports|Electricity,GWh,2023,18585.6
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,BE,Exports|Electricity,GWh,2023,18585.6
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,BE,Exports|Heat,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,BE,Exports|Heat,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,BE,Exports|Natural,GWh,2023,79843.196
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,BE,Exports|Natural,GWh,2023,79843.196
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,BE,Imports|Electricity,GWh,2023,20223.9
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,BE,Imports|Electricity,GWh,2023,20223.9
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,BE,Imports|Heat,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,BE,Imports|Heat,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,BE,Imports|Natural gas,GWh,2023,223033.714
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,BE,Imports|Natural gas,GWh,2023,223033.714
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,DE,Demand|Electricity|Energy Sector,GWh,2023,9510.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,DE,Demand|Electricity|Energy Sector,GWh,2023,9510.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,DE,Demand|Heat|Energy Sector,GWh,2023,3410.833
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,DE,Demand|Heat|Energy Sector,GWh,2023,3410.833
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,DE,Demand|Natural gas|Energy Sector,GWh,2023,9367.164
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,DE,Demand|Natural gas|Energy Sector,GWh,2023,9367.164
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,DE,Distribution losses|Electricity,GWh,2023,25774.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,DE,Distribution losses|Electricity,GWh,2023,25774.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,DE,Distribution losses|Heat,GWh,2023,11396.944
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,DE,Distribution losses|Heat,GWh,2023,11396.944
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,DE,Distribution losses|Natural gas,GWh,2023,276.454
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,DE,Distribution losses|Natural gas,GWh,2023,276.454
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,DE,Exports|Electricity,GWh,2023,60082.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,DE,Exports|Electricity,GWh,2023,60082.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,DE,Exports|Heat,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,DE,Exports|Heat,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,DE,Exports|Natural,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,DE,Exports|Natural,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,DE,Imports|Electricity,GWh,2023,69307.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,DE,Imports|Electricity,GWh,2023,69307.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,DE,Imports|Heat,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,DE,Imports|Heat,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,DE,Imports|Natural gas,GWh,2023,697801.351
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,DE,Imports|Natural gas,GWh,2023,697801.351
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,DK,Demand|Electricity|Energy Sector,GWh,2023,1188.319
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,DK,Demand|Electricity|Energy Sector,GWh,2023,1188.319
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,DK,Demand|Heat|Energy Sector,GWh,2023,2.03299999999998
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,DK,Demand|Heat|Energy Sector,GWh,2023,2.03299999999998
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,DK,Demand|Natural gas|Energy Sector,GWh,2023,4616.084
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,DK,Demand|Natural gas|Energy Sector,GWh,2023,4616.084
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,DK,Distribution losses|Electricity,GWh,2023,2198.223
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,DK,Distribution losses|Electricity,GWh,2023,2198.223
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,DK,Distribution losses|Heat,GWh,2023,7390.816
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,DK,Distribution losses|Heat,GWh,2023,7390.816
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,DK,Distribution losses|Natural gas,GWh,2023,37.328
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,DK,Distribution losses|Natural gas,GWh,2023,37.328
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,DK,Exports|Electricity,GWh,2023,16697.517
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,DK,Exports|Electricity,GWh,2023,16697.517
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,DK,Exports|Heat,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,DK,Exports|Heat,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,DK,Exports|Natural,GWh,2023,84180.572
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,DK,Exports|Natural,GWh,2023,84180.572
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,DK,Imports|Electricity,GWh,2023,19830.928
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,DK,Imports|Electricity,GWh,2023,19830.928
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,DK,Imports|Heat,GWh,2023,31.649
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,DK,Imports|Heat,GWh,2023,31.649
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,DK,Imports|Natural gas,GWh,2023,86253.474
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,DK,Imports|Natural gas,GWh,2023,86253.474
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,FR,Demand|Electricity|Energy Sector,GWh,2023,11076.46
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,FR,Demand|Electricity|Energy Sector,GWh,2023,11076.46
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,FR,Demand|Heat|Energy Sector,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,FR,Demand|Heat|Energy Sector,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,FR,Demand|Natural gas|Energy Sector,GWh,2023,5734.672
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,FR,Demand|Natural gas|Energy Sector,GWh,2023,5734.672
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,FR,Distribution losses|Electricity,GWh,2023,37130.685
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,FR,Distribution losses|Electricity,GWh,2023,37130.685
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,FR,Distribution losses|Heat,GWh,2023,5374.479
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,FR,Distribution losses|Heat,GWh,2023,5374.479
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,FR,Distribution losses|Natural gas,GWh,2023,3664.644
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,FR,Distribution losses|Natural gas,GWh,2023,3664.644
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,FR,Exports|Electricity,GWh,2023,75903.55
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,FR,Exports|Electricity,GWh,2023,75903.55
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,FR,Exports|Heat,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,FR,Exports|Heat,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,FR,Exports|Natural,GWh,2023,140292.667
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,FR,Exports|Natural,GWh,2023,140292.667
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,FR,Imports|Electricity,GWh,2023,25431.848
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,FR,Imports|Electricity,GWh,2023,25431.848
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,FR,Imports|Heat,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,FR,Imports|Heat,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,FR,Imports|Natural gas,GWh,2023,478737.725
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,FR,Imports|Natural gas,GWh,2023,478737.725
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NL,Demand|Electricity|Energy Sector,GWh,2023,4798.278
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NL,Demand|Electricity|Energy Sector,GWh,2023,4798.278
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NL,Demand|Heat|Energy Sector,GWh,2023,3083.578
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NL,Demand|Heat|Energy Sector,GWh,2023,3083.578
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NL,Demand|Natural gas|Energy Sector,GWh,2023,9239.208
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NL,Demand|Natural gas|Energy Sector,GWh,2023,9239.208
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NL,Distribution losses|Electricity,GWh,2023,5028.224
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NL,Distribution losses|Electricity,GWh,2023,5028.224
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NL,Distribution losses|Heat,GWh,2023,2116.548
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NL,Distribution losses|Heat,GWh,2023,2116.548
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NL,Distribution losses|Natural gas,GWh,2023,13.178
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NL,Distribution losses|Natural gas,GWh,2023,13.178
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NL,Exports|Electricity,GWh,2023,25206.139
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NL,Exports|Electricity,GWh,2023,25206.139
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NL,Exports|Heat,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NL,Exports|Heat,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NL,Exports|Natural,GWh,2023,166247.054
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NL,Exports|Natural,GWh,2023,166247.054
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NL,Imports|Electricity,GWh,2023,19546.606
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NL,Imports|Electricity,GWh,2023,19546.606
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NL,Imports|Heat,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NL,Imports|Heat,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NL,Imports|Natural gas,GWh,2023,336150.828
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NL,Imports|Natural gas,GWh,2023,336150.828
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO,Demand|Electricity|Energy Sector,GWh,2023,10882.174
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO,Demand|Electricity|Energy Sector,GWh,2023,10882.174
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO,Demand|Heat|Energy Sector,GWh,2023,15.9189999999999
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO,Demand|Heat|Energy Sector,GWh,2023,15.9189999999999
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO,Demand|Natural gas|Energy Sector,GWh,2023,42902.28
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO,Demand|Natural gas|Energy Sector,GWh,2023,42902.28
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO,Distribution losses|Electricity,GWh,2023,7335.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO,Distribution losses|Electricity,GWh,2023,7335.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO,Distribution losses|Heat,GWh,2023,807.985
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO,Distribution losses|Heat,GWh,2023,807.985
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO,Distribution losses|Natural gas,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO,Distribution losses|Natural gas,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO,Exports|Electricity,GWh,2023,30977.995
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO,Exports|Electricity,GWh,2023,30977.995
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO,Exports|Heat,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO,Exports|Heat,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO,Exports|Natural,GWh,2023,1151452.396
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO,Exports|Natural,GWh,2023,1151452.396
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO,Imports|Electricity,GWh,2023,13240.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO,Imports|Electricity,GWh,2023,13240.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO,Imports|Heat,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO,Imports|Heat,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO,Imports|Natural gas,GWh,2023,1014.461
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO,Imports|Natural gas,GWh,2023,1014.461
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO02,Final Energy|Agriculture|Electricity,GWh,2023,267.28142448273
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO02,Final Energy|Agriculture|Electricity,GWh,2023,144.608956114282
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO02,Final Energy|Agriculture|Gases|Biomass,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO02,Final Energy|Agriculture|Gases|Biomass,GWh,2023,0.0239601820664807
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO02,Final Energy|Agriculture|Gases|Gas,GWh,2023,8.3210655270748
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO02,Final Energy|Agriculture|Gases|Gas,GWh,2023,3.96595468159498
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO02,Final Energy|Agriculture|Geothermal,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO02,Final Energy|Agriculture|Geothermal,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO02,Final Energy|Agriculture|Heat,GWh,2023,0.987334509603815
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO02,Final Energy|Agriculture|Heat,GWh,2023,0.452520711301034
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO02,Final Energy|Agriculture|Liquids|Biomass,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO02,Final Energy|Agriculture|Liquids|Biomass,GWh,2023,0.0894422705549878
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO02,Final Energy|Agriculture|Solar,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO02,Final Energy|Agriculture|Solar,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO02,Final Energy|Agriculture|Solids|Biomass,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO02,Final Energy|Agriculture|Solids|Biomass,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO02,Final Energy|Agriculture|Solids|Coal,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO02,Final Energy|Agriculture|Solids|Coal,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO02,Final Energy|Residential and Commercial|Electricity,GWh,2023,8045.28466103318
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO02,Final Energy|Residential and Commercial|Electricity,GWh,2023,4352.79114037133
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO02,Final Energy|Residential and Commercial|Gases|Biomass,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO02,Final Energy|Residential and Commercial|Gases|Biomass,GWh,2023,9.2140513785429
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO02,Final Energy|Residential and Commercial|Gases|Gas,GWh,2023,17.1712665027595
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO02,Final Energy|Residential and Commercial|Gases|Gas,GWh,2023,8.18410389317949
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO02,Final Energy|Residential and Commercial|Heat,GWh,2023,918.467482010885
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO02,Final Energy|Residential and Commercial|Heat,GWh,2023,776.936563313246
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO02,Final Energy|Residential and Commercial|Solids|Biomass,GWh,2023,807.707652783091
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO02,Final Energy|Residential and Commercial|Solids|Biomass,GWh,2023,431.16783268306
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO02,Final Energy|Transportation|Electricity,GWh,2023,267.540399212256
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO02,Final Energy|Transportation|Electricity,GWh,2023,229.302209673775
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO02,Final Energy|Transportation|Gases|Biomass,GWh,2023,35.4566893235
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO02,Final Energy|Transportation|Gases|Biomass,GWh,2023,27.3367979516791
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO02,Final Energy|Transportation|Geothermal,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO02,Final Energy|Transportation|Geothermal,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO02,Final Energy|Transportation|Liquids|Biomass,GWh,2023,374.629817648499
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO02,Final Energy|Transportation|Liquids|Biomass,GWh,2023,7.14285700377337
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO02,Final Energy|Transportation|Liquids|Biomass,GWh,2023,288.836319101676
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO02,Final Energy|Transportation|Solar,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO02,Final Energy|Transportation|Solar,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO02,Final Energy|Transportation|Solids|Biomass,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO02,Final Energy|Transportation|Solids|Biomass,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO06,Final Energy|Agriculture|Electricity,GWh,2023,216.488834732024
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO06,Final Energy|Agriculture|Electricity,GWh,2023,185.186996777545
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO06,Final Energy|Agriculture|Gases|Biomass,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO06,Final Energy|Agriculture|Gases|Biomass,GWh,2023,0.0306835363338643
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO06,Final Energy|Agriculture|Gases|Gas,GWh,2023,5.93734220380047
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO06,Final Energy|Agriculture|Gases|Gas,GWh,2023,5.07882261635303
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO06,Final Energy|Agriculture|Geothermal,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO06,Final Energy|Agriculture|Geothermal,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO06,Final Energy|Agriculture|Heat,GWh,2023,0.688422669524632
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO06,Final Energy|Agriculture|Heat,GWh,2023,0.579500424850937
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO06,Final Energy|Agriculture|Liquids|Biomass,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO06,Final Energy|Agriculture|Liquids|Biomass,GWh,2023,0.114540246428118
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO06,Final Energy|Agriculture|Solar,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO06,Final Energy|Agriculture|Solar,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO06,Final Energy|Agriculture|Solids|Biomass,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO06,Final Energy|Agriculture|Solids|Biomass,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO06,Final Energy|Agriculture|Solids|Coal,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO06,Final Energy|Agriculture|Solids|Coal,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO06,Final Energy|Residential and Commercial|Electricity,GWh,2023,6516.40608667528
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO06,Final Energy|Residential and Commercial|Electricity,GWh,2023,5574.2074387719
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO06,Final Energy|Residential and Commercial|Gases|Biomass,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO06,Final Energy|Residential and Commercial|Gases|Biomass,GWh,2023,11.799563103117
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO06,Final Energy|Residential and Commercial|Gases|Gas,GWh,2023,12.2522392075645
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO06,Final Energy|Residential and Commercial|Gases|Gas,GWh,2023,10.4806068864474
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO06,Final Energy|Residential and Commercial|Heat,GWh,2023,640.40487766524
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO06,Final Energy|Residential and Commercial|Heat,GWh,2023,760.755707563998
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO06,Final Energy|Residential and Commercial|Solids|Biomass,GWh,2023,597.378028277062
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO06,Final Energy|Residential and Commercial|Solids|Biomass,GWh,2023,552.155815152676
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO06,Final Energy|Transportation|Electricity,GWh,2023,292.715837576064
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO06,Final Energy|Transportation|Electricity,GWh,2023,293.645626833672
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO06,Final Energy|Transportation|Gases|Biomass,GWh,2023,29.5107783570959
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO06,Final Energy|Transportation|Gases|Biomass,GWh,2023,35.007648559369
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO06,Final Energy|Transportation|Geothermal,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO06,Final Energy|Transportation|Geothermal,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO06,Final Energy|Transportation|Liquids|Biomass,GWh,2023,311.806255054295
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO06,Final Energy|Transportation|Liquids|Biomass,GWh,2023,9.14718059298404
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO06,Final Energy|Transportation|Liquids|Biomass,GWh,2023,369.885323371319
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO06,Final Energy|Transportation|Solar,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO06,Final Energy|Transportation|Solar,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO06,Final Energy|Transportation|Solids|Biomass,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO06,Final Energy|Transportation|Solids|Biomass,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO07,Final Energy|Agriculture|Electricity,GWh,2023,193.991680690204
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO07,Final Energy|Agriculture|Electricity,GWh,2023,187.147741078494
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO07,Final Energy|Agriculture|Gases|Biomass,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO07,Final Energy|Agriculture|Gases|Biomass,GWh,2023,0.0310084110283433
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO07,Final Energy|Agriculture|Gases|Gas,GWh,2023,6.87990845139335
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO07,Final Energy|Agriculture|Gases|Gas,GWh,2023,5.13259676180509
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO07,Final Energy|Agriculture|Geothermal,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO07,Final Energy|Agriculture|Geothermal,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO07,Final Energy|Agriculture|Heat,GWh,2023,0.813213831677239
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO07,Final Energy|Agriculture|Heat,GWh,2023,0.58563612646712
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO07,Final Energy|Agriculture|Liquids|Biomass,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO07,Final Energy|Agriculture|Liquids|Biomass,GWh,2023,0.115752988895576
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO07,Final Energy|Agriculture|Solar,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO07,Final Energy|Agriculture|Solar,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO07,Final Energy|Agriculture|Solids|Biomass,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO07,Final Energy|Agriculture|Solids|Biomass,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO07,Final Energy|Agriculture|Solids|Coal,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO07,Final Energy|Agriculture|Solids|Coal,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO07,Final Energy|Residential and Commercial|Electricity,GWh,2023,5839.23217277594
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO07,Final Energy|Residential and Commercial|Electricity,GWh,2023,5633.22667693693
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO07,Final Energy|Residential and Commercial|Gases|Biomass,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO07,Final Energy|Residential and Commercial|Gases|Biomass,GWh,2023,11.9244958819337
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO07,Final Energy|Residential and Commercial|Gases|Gas,GWh,2023,14.1973093648973
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO07,Final Energy|Residential and Commercial|Gases|Gas,GWh,2023,10.5915746680988
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO07,Final Energy|Residential and Commercial|Heat,GWh,2023,756.491799944001
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO07,Final Energy|Residential and Commercial|Heat,GWh,2023,860.337313790208
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO07,Final Energy|Residential and Commercial|Solids|Biomass,GWh,2023,834.153552832305
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO07,Final Energy|Residential and Commercial|Solids|Biomass,GWh,2023,558.001994347952
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO07,Final Energy|Transportation|Electricity,GWh,2023,304.307647943712
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO07,Final Energy|Transportation|Electricity,GWh,2023,296.754721960931
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO07,Final Energy|Transportation|Gases|Biomass,GWh,2023,35.178439016036
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO07,Final Energy|Transportation|Gases|Biomass,GWh,2023,35.3783065893432
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO07,Final Energy|Transportation|Geothermal,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO07,Final Energy|Transportation|Geothermal,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO07,Final Energy|Transportation|Liquids|Biomass,GWh,2023,371.689868546235
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO07,Final Energy|Transportation|Liquids|Biomass,GWh,2023,9.2440301695177
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO07,Final Energy|Transportation|Liquids|Biomass,GWh,2023,373.801637974532
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO07,Final Energy|Transportation|Solar,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO07,Final Energy|Transportation|Solar,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO07,Final Energy|Transportation|Solids|Biomass,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO07,Final Energy|Transportation|Solids|Biomass,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO08,Final Energy|Agriculture|Electricity,GWh,2023,595.561811688603
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO08,Final Energy|Agriculture|Electricity,GWh,2023,774.574503180916
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO08,Final Energy|Agriculture|Gases|Biomass,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO08,Final Energy|Agriculture|Gases|Biomass,GWh,2023,0.128338843035432
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO08,Final Energy|Agriculture|Gases|Gas,GWh,2023,14.8678866963302
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO08,Final Energy|Agriculture|Gases|Gas,GWh,2023,21.2429953142512
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO08,Final Energy|Agriculture|Geothermal,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO08,Final Energy|Agriculture|Geothermal,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO08,Final Energy|Agriculture|Heat,GWh,2023,1.64449284659634
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO08,Final Energy|Agriculture|Heat,GWh,2023,2.42385405823737
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO08,Final Energy|Agriculture|Liquids|Biomass,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO08,Final Energy|Agriculture|Liquids|Biomass,GWh,2023,0.479083067467494
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO08,Final Energy|Agriculture|Solar,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO08,Final Energy|Agriculture|Solar,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO08,Final Energy|Agriculture|Solids|Biomass,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO08,Final Energy|Agriculture|Solids|Biomass,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO08,Final Energy|Agriculture|Solids|Coal,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO08,Final Energy|Agriculture|Solids|Coal,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO08,Final Energy|Residential and Commercial|Electricity,GWh,2023,17926.6640678392
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO08,Final Energy|Residential and Commercial|Electricity,GWh,2023,23315.0222890684
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO08,Final Energy|Residential and Commercial|Gases|Biomass,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO08,Final Energy|Residential and Commercial|Gases|Biomass,GWh,2023,49.3535771268416
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO08,Final Energy|Residential and Commercial|Gases|Gas,GWh,2023,30.6812203274728
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO08,Final Energy|Residential and Commercial|Gases|Gas,GWh,2023,43.8368298712475
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO08,Final Energy|Residential and Commercial|Heat,GWh,2023,1529.78872844659
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO08,Final Energy|Residential and Commercial|Heat,GWh,2023,1614.17252731877
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO08,Final Energy|Residential and Commercial|Solids|Biomass,GWh,2023,1669.01816101365
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO08,Final Energy|Residential and Commercial|Solids|Biomass,GWh,2023,2309.4808147577
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO08,Final Energy|Transportation|Electricity,GWh,2023,1196.61902159524
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO08,Final Energy|Transportation|Electricity,GWh,2023,1228.22022860041
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO08,Final Energy|Transportation|Gases|Biomass,GWh,2023,162.575139718361
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO08,Final Energy|Transportation|Gases|Biomass,GWh,2023,146.425140329795
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO08,Final Energy|Transportation|Geothermal,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO08,Final Energy|Transportation|Geothermal,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO08,Final Energy|Transportation|Liquids|Biomass,GWh,2023,1717.74342469426
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO08,Final Energy|Transportation|Liquids|Biomass,GWh,2023,38.2595591839947
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO08,Final Energy|Transportation|Liquids|Biomass,GWh,2023,1547.10506444689
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO08,Final Energy|Transportation|Solar,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO08,Final Energy|Transportation|Solar,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO08,Final Energy|Transportation|Solids|Biomass,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO08,Final Energy|Transportation|Solids|Biomass,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO09,Final Energy|Agriculture|Electricity,GWh,2023,318.792539705171
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO09,Final Energy|Agriculture|Electricity,GWh,2023,288.403580209379
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO09,Final Energy|Agriculture|Gases|Biomass,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO09,Final Energy|Agriculture|Gases|Biomass,GWh,2023,0.0477854378879588
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO09,Final Energy|Agriculture|Gases|Gas,GWh,2023,8.56827979098176
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO09,Final Energy|Agriculture|Gases|Gas,GWh,2023,7.90957600313646
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO09,Final Energy|Agriculture|Geothermal,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO09,Final Energy|Agriculture|Geothermal,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO09,Final Energy|Agriculture|Heat,GWh,2023,0.977130238855223
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO09,Final Energy|Agriculture|Heat,GWh,2023,0.902493156474859
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO09,Final Energy|Agriculture|Liquids|Biomass,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO09,Final Energy|Agriculture|Liquids|Biomass,GWh,2023,0.178380867570391
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO09,Final Energy|Agriculture|Solar,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO09,Final Energy|Agriculture|Solar,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO09,Final Energy|Agriculture|Solids|Biomass,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO09,Final Energy|Agriculture|Solids|Biomass,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO09,Final Energy|Agriculture|Solids|Coal,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO09,Final Energy|Agriculture|Solids|Coal,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO09,Final Energy|Residential and Commercial|Electricity,GWh,2023,9595.79115797306
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO09,Final Energy|Residential and Commercial|Electricity,GWh,2023,8681.0705402967
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO09,Final Energy|Residential and Commercial|Gases|Biomass,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO09,Final Energy|Residential and Commercial|Gases|Biomass,GWh,2023,18.3762159496183
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO09,Final Energy|Residential and Commercial|Gases|Gas,GWh,2023,17.6814153526896
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO09,Final Energy|Residential and Commercial|Gases|Gas,GWh,2023,16.3221208908606
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO09,Final Energy|Residential and Commercial|Heat,GWh,2023,908.974963751823
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO09,Final Energy|Residential and Commercial|Heat,GWh,2023,897.50402042635
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO09,Final Energy|Residential and Commercial|Solids|Biomass,GWh,2023,884.799665412594
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO09,Final Energy|Residential and Commercial|Solids|Biomass,GWh,2023,859.907643055253
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO09,Final Energy|Transportation|Electricity,GWh,2023,466.770752019167
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO09,Final Energy|Transportation|Electricity,GWh,2023,457.313156783841
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO09,Final Energy|Transportation|Gases|Biomass,GWh,2023,48.415490044988
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO09,Final Energy|Transportation|Gases|Biomass,GWh,2023,54.5196550239534
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO09,Final Energy|Transportation|Geothermal,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO09,Final Energy|Transportation|Geothermal,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO09,Final Energy|Transportation|Liquids|Biomass,GWh,2023,511.550473351588
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO09,Final Energy|Transportation|Liquids|Biomass,GWh,2023,14.245490654008
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO09,Final Energy|Transportation|Liquids|Biomass,GWh,2023,576.046123018758
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO09,Final Energy|Transportation|Solar,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO09,Final Energy|Transportation|Solar,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO09,Final Energy|Transportation|Solids|Biomass,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO09,Final Energy|Transportation|Solids|Biomass,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO0A,Final Energy|Agriculture|Electricity,GWh,2023,531.386453506232
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO0A,Final Energy|Agriculture|Electricity,GWh,2023,544.53422263938
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO0A,Final Energy|Agriculture|Gases|Biomass,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO0A,Final Energy|Agriculture|Gases|Biomass,GWh,2023,0.0902235896479202
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO0A,Final Energy|Agriculture|Gases|Gas,GWh,2023,13.6517897790089
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO0A,Final Energy|Agriculture|Gases|Gas,GWh,2023,14.9340546228591
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO0A,Final Energy|Agriculture|Geothermal,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO0A,Final Energy|Agriculture|Geothermal,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO0A,Final Energy|Agriculture|Heat,GWh,2023,1.53320045165251
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO0A,Final Energy|Agriculture|Heat,GWh,2023,1.70399552266867
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO0A,Final Energy|Agriculture|Liquids|Biomass,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO0A,Final Energy|Agriculture|Liquids|Biomass,GWh,2023,0.336800559083429
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO0A,Final Energy|Agriculture|Solar,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO0A,Final Energy|Agriculture|Solar,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO0A,Final Energy|Agriculture|Solids|Biomass,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO0A,Final Energy|Agriculture|Solids|Biomass,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO0A,Final Energy|Agriculture|Solids|Coal,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO0A,Final Energy|Agriculture|Solids|Coal,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO0A,Final Energy|Residential and Commercial|Electricity,GWh,2023,15994.9584665235
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO0A,Final Energy|Residential and Commercial|Electricity,GWh,2023,16390.7119145546
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO0A,Final Energy|Residential and Commercial|Gases|Biomass,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO0A,Final Energy|Residential and Commercial|Gases|Biomass,GWh,2023,34.6960965599462
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO0A,Final Energy|Residential and Commercial|Gases|Gas,GWh,2023,28.1716950518258
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO0A,Final Energy|Residential and Commercial|Gases|Gas,GWh,2023,30.8177637901659
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO0A,Final Energy|Residential and Commercial|Heat,GWh,2023,1426.25902827229
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO0A,Final Energy|Residential and Commercial|Heat,GWh,2023,1274.59286758742
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO0A,Final Energy|Residential and Commercial|Solids|Biomass,GWh,2023,1534.93838809418
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO0A,Final Energy|Residential and Commercial|Solids|Biomass,GWh,2023,1623.58990000335
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO0A,Final Energy|Transportation|Electricity,GWh,2023,839.535061776048
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO0A,Final Energy|Transportation|Electricity,GWh,2023,863.452056147367
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO0A,Final Energy|Transportation|Gases|Biomass,GWh,2023,90.17068152741
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO0A,Final Energy|Transportation|Gases|Biomass,GWh,2023,102.938451545859
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO0A,Final Energy|Transportation|Geothermal,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO0A,Final Energy|Transportation|Geothermal,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO0A,Final Energy|Transportation|Liquids|Biomass,GWh,2023,952.729276826909
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO0A,Final Energy|Transportation|Liquids|Biomass,GWh,2023,26.896882395722
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO0A,Final Energy|Transportation|Liquids|Biomass,GWh,2023,1087.63153208681
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO0A,Final Energy|Transportation|Solar,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO0A,Final Energy|Transportation|Solar,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO0A,Final Energy|Transportation|Solids|Biomass,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,NO0A,Final Energy|Transportation|Solids|Biomass,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UK,Demand|Electricity|Energy Sector,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UK,Demand|Electricity|Energy Sector,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UK,Demand|Heat|Energy Sector,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UK,Demand|Heat|Energy Sector,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UK,Demand|Natural gas|Energy Sector,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UK,Demand|Natural gas|Energy Sector,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UK,Distribution losses|Electricity,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UK,Distribution losses|Electricity,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UK,Distribution losses|Heat,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UK,Distribution losses|Heat,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UK,Distribution losses|Natural gas,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UK,Distribution losses|Natural gas,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UK,Exports|Electricity,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UK,Exports|Electricity,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UK,Exports|Heat,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UK,Exports|Heat,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UK,Exports|Natural,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UK,Exports|Natural,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UK,Imports|Electricity,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UK,Imports|Electricity,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UK,Imports|Heat,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UK,Imports|Heat,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UK,Imports|Natural gas,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UK,Imports|Natural gas,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKC1,Final Energy|Agriculture|Electricity,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKC1,Final Energy|Agriculture|Electricity,GWh,2023,62.0176411364915
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKC1,Final Energy|Agriculture|Gases|Gas,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKC1,Final Energy|Agriculture|Gases|Gas,GWh,2023,13.6649039792269
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKC1,Final Energy|Agriculture|Heat,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKC1,Final Energy|Agriculture|Heat,GWh,2023,0.630687875964321
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKC1,Final Energy|Agriculture|Liquids|Oil,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKC1,Final Energy|Agriculture|Liquids|Oil,GWh,2023,177.223293145974
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKC1,Final Energy|Agriculture|Solids|Biomass,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKC1,Final Energy|Agriculture|Solids|Biomass,GWh,2023,34.0571453020733
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKC1,Final Energy|Residential and Commercial|Electricity,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKC1,Final Energy|Residential and Commercial|Electricity,GWh,2023,3108.70048419361
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKC1,Final Energy|Residential and Commercial|Heat,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKC1,Final Energy|Residential and Commercial|Heat,GWh,2023,112.640372160711
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKC1,Final Energy|Residential and Commercial|Liquids|Oil,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKC1,Final Energy|Residential and Commercial|Liquids|Oil,GWh,2023,1170.25186531639
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKC1,Final Energy|Transportation|Liquids|Biomass,GWh,2023,10.7687543131955
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKC1,Final Energy|Transportation|Liquids|Biomass,GWh,2023,478.492380029531
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKC1,Final Energy|Transportation|Solids|Biomass,GWh,2023,369.242446829995
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKC1,Final Energy|Transportation|Solids|Biomass,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKC2,Final Energy|Agriculture|Electricity,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKC2,Final Energy|Agriculture|Electricity,GWh,2023,75.0751337086442
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKC2,Final Energy|Agriculture|Gases|Gas,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKC2,Final Energy|Agriculture|Gases|Gas,GWh,2023,16.541978613769
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKC2,Final Energy|Agriculture|Heat,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKC2,Final Energy|Agriculture|Heat,GWh,2023,0.76347593602011
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKC2,Final Energy|Agriculture|Liquids|Oil,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKC2,Final Energy|Agriculture|Liquids|Oil,GWh,2023,214.536738021651
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKC2,Final Energy|Agriculture|Solids|Biomass,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKC2,Final Energy|Agriculture|Solids|Biomass,GWh,2023,41.2277005450859
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKC2,Final Energy|Residential and Commercial|Electricity,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKC2,Final Energy|Residential and Commercial|Electricity,GWh,2023,3763.22124211907
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKC2,Final Energy|Residential and Commercial|Heat,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKC2,Final Energy|Residential and Commercial|Heat,GWh,2023,166.641347235886
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKC2,Final Energy|Residential and Commercial|Liquids|Oil,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKC2,Final Energy|Residential and Commercial|Liquids|Oil,GWh,2023,1416.64232388424
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKC2,Final Energy|Transportation|Liquids|Biomass,GWh,2023,12.6382634765138
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKC2,Final Energy|Transportation|Liquids|Biomass,GWh,2023,579.236468059524
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKC2,Final Energy|Transportation|Solids|Biomass,GWh,2023,433.344767094548
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKC2,Final Energy|Transportation|Solids|Biomass,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKD1,Final Energy|Agriculture|Electricity,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKD1,Final Energy|Agriculture|Electricity,GWh,2023,25.7916422617665
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKD1,Final Energy|Agriculture|Gases|Gas,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKD1,Final Energy|Agriculture|Gases|Gas,GWh,2023,5.6829042271689
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKD1,Final Energy|Agriculture|Heat,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKD1,Final Energy|Agriculture|Heat,GWh,2023,0.262287887407795
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKD1,Final Energy|Agriculture|Liquids|Oil,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKD1,Final Energy|Agriculture|Liquids|Oil,GWh,2023,73.7028963615905
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKD1,Final Energy|Agriculture|Solids|Biomass,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKD1,Final Energy|Agriculture|Solids|Biomass,GWh,2023,14.1635459200209
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKD1,Final Energy|Residential and Commercial|Electricity,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKD1,Final Energy|Residential and Commercial|Electricity,GWh,2023,1292.83360859922
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKD1,Final Energy|Residential and Commercial|Heat,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKD1,Final Energy|Residential and Commercial|Heat,GWh,2023,123.50561960085
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKD1,Final Energy|Residential and Commercial|Liquids|Oil,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKD1,Final Energy|Residential and Commercial|Liquids|Oil,GWh,2023,486.679546549955
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKD1,Final Energy|Transportation|Liquids|Biomass,GWh,2023,5.53222099349284
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKD1,Final Energy|Transportation|Liquids|Biomass,GWh,2023,198.993448711504
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKD1,Final Energy|Transportation|Solids|Biomass,GWh,2023,189.690539558367
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKD1,Final Energy|Transportation|Solids|Biomass,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKD3,Final Energy|Agriculture|Electricity,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKD3,Final Energy|Agriculture|Electricity,GWh,2023,145.368665001568
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKD3,Final Energy|Agriculture|Gases|Gas,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKD3,Final Energy|Agriculture|Gases|Gas,GWh,2023,32.0303838139049
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKD3,Final Energy|Agriculture|Heat,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKD3,Final Energy|Agriculture|Heat,GWh,2023,1.47832540679561
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKD3,Final Energy|Agriculture|Liquids|Oil,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKD3,Final Energy|Agriculture|Liquids|Oil,GWh,2023,415.409439309567
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKD3,Final Energy|Agriculture|Solids|Biomass,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKD3,Final Energy|Agriculture|Solids|Biomass,GWh,2023,79.8295719669631
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKD3,Final Energy|Residential and Commercial|Electricity,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKD3,Final Energy|Residential and Commercial|Electricity,GWh,2023,7286.75955737134
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKD3,Final Energy|Residential and Commercial|Heat,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKD3,Final Energy|Residential and Commercial|Heat,GWh,2023,166.915435999899
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKD3,Final Energy|Residential and Commercial|Liquids|Oil,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKD3,Final Energy|Residential and Commercial|Liquids|Oil,GWh,2023,2743.05743106604
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKD3,Final Energy|Transportation|Liquids|Biomass,GWh,2023,20.6218306688475
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKD3,Final Energy|Transportation|Liquids|Biomass,GWh,2023,1121.58084737905
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKD3,Final Energy|Transportation|Solids|Biomass,GWh,2023,707.087838836538
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKD3,Final Energy|Transportation|Solids|Biomass,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKD4,Final Energy|Agriculture|Electricity,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKD4,Final Energy|Agriculture|Electricity,GWh,2023,77.156776463971
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKD4,Final Energy|Agriculture|Gases|Gas,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKD4,Final Energy|Agriculture|Gases|Gas,GWh,2023,17.0006456615529
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKD4,Final Energy|Agriculture|Heat,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKD4,Final Energy|Agriculture|Heat,GWh,2023,0.784645184379366
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKD4,Final Energy|Agriculture|Liquids|Oil,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKD4,Final Energy|Agriculture|Liquids|Oil,GWh,2023,220.485296810602
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKD4,Final Energy|Agriculture|Solids|Biomass,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKD4,Final Energy|Agriculture|Solids|Biomass,GWh,2023,42.3708399564857
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKD4,Final Energy|Residential and Commercial|Electricity,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKD4,Final Energy|Residential and Commercial|Electricity,GWh,2023,3867.5658080009
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKD4,Final Energy|Residential and Commercial|Heat,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKD4,Final Energy|Residential and Commercial|Heat,GWh,2023,117.350983807109
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKD4,Final Energy|Residential and Commercial|Liquids|Oil,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKD4,Final Energy|Residential and Commercial|Liquids|Oil,GWh,2023,1455.92221703565
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKD4,Final Energy|Transportation|Liquids|Biomass,GWh,2023,12.3044225544927
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKD4,Final Energy|Transportation|Liquids|Biomass,GWh,2023,595.297223968885
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKD4,Final Energy|Transportation|Solids|Biomass,GWh,2023,421.897924190163
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKD4,Final Energy|Transportation|Solids|Biomass,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKD6,Final Energy|Agriculture|Electricity,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKD6,Final Energy|Agriculture|Electricity,GWh,2023,48.0302918790739
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKD6,Final Energy|Agriculture|Gases|Gas,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKD6,Final Energy|Agriculture|Gases|Gas,GWh,2023,10.5829456682705
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKD6,Final Energy|Agriculture|Heat,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKD6,Final Energy|Agriculture|Heat,GWh,2023,0.48844364622787
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKD6,Final Energy|Agriculture|Liquids|Oil,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKD6,Final Energy|Agriculture|Liquids|Oil,GWh,2023,137.252664590031
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKD6,Final Energy|Agriculture|Solids|Biomass,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKD6,Final Energy|Agriculture|Solids|Biomass,GWh,2023,26.375956896305
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKD6,Final Energy|Residential and Commercial|Electricity,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKD6,Final Energy|Residential and Commercial|Electricity,GWh,2023,2407.56966702143
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKD6,Final Energy|Residential and Commercial|Heat,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKD6,Final Energy|Residential and Commercial|Heat,GWh,2023,77.7990506497808
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKD6,Final Energy|Residential and Commercial|Liquids|Oil,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKD6,Final Energy|Residential and Commercial|Liquids|Oil,GWh,2023,906.315326303251
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKD6,Final Energy|Transportation|Liquids|Biomass,GWh,2023,7.70695614265902
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKD6,Final Energy|Transportation|Liquids|Biomass,GWh,2023,370.574053665648
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKD6,Final Energy|Transportation|Solids|Biomass,GWh,2023,264.258544764071
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKD6,Final Energy|Transportation|Solids|Biomass,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKD7,Final Energy|Agriculture|Electricity,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKD7,Final Energy|Agriculture|Electricity,GWh,2023,80.1165079118407
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKD7,Final Energy|Agriculture|Gases|Gas,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKD7,Final Energy|Agriculture|Gases|Gas,GWh,2023,17.6527898788801
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKD7,Final Energy|Agriculture|Heat,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKD7,Final Energy|Agriculture|Heat,GWh,2023,0.814744148256007
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKD7,Final Energy|Agriculture|Liquids|Oil,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKD7,Final Energy|Agriculture|Liquids|Oil,GWh,2023,228.943105659938
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKD7,Final Energy|Agriculture|Solids|Biomass,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKD7,Final Energy|Agriculture|Solids|Biomass,GWh,2023,43.9961840058244
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKD7,Final Energy|Residential and Commercial|Electricity,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKD7,Final Energy|Residential and Commercial|Electricity,GWh,2023,4015.92550721658
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKD7,Final Energy|Residential and Commercial|Heat,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKD7,Final Energy|Residential and Commercial|Heat,GWh,2023,88.2417774864727
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKD7,Final Energy|Residential and Commercial|Liquids|Oil,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKD7,Final Energy|Residential and Commercial|Liquids|Oil,GWh,2023,1511.77134615816
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKD7,Final Energy|Transportation|Liquids|Biomass,GWh,2023,12.78133815738
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKD7,Final Energy|Transportation|Liquids|Biomass,GWh,2023,618.132806212695
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKD7,Final Energy|Transportation|Solids|Biomass,GWh,2023,438.250556910713
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKD7,Final Energy|Transportation|Solids|Biomass,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKE1,Final Energy|Agriculture|Electricity,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKE1,Final Energy|Agriculture|Electricity,GWh,2023,48.1993661433025
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKE1,Final Energy|Agriculture|Gases|Gas,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKE1,Final Energy|Agriculture|Gases|Gas,GWh,2023,10.6201993197107
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKE1,Final Energy|Agriculture|Heat,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKE1,Final Energy|Agriculture|Heat,GWh,2023,0.49016304552511
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKE1,Final Energy|Agriculture|Liquids|Oil,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKE1,Final Energy|Agriculture|Liquids|Oil,GWh,2023,137.735815792556
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKE1,Final Energy|Agriculture|Solids|Biomass,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKE1,Final Energy|Agriculture|Solids|Biomass,GWh,2023,26.4688044583559
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKE1,Final Energy|Residential and Commercial|Electricity,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKE1,Final Energy|Residential and Commercial|Electricity,GWh,2023,2416.04469505282
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKE1,Final Energy|Residential and Commercial|Heat,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKE1,Final Energy|Residential and Commercial|Heat,GWh,2023,88.7720408982147
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKE1,Final Energy|Residential and Commercial|Liquids|Oil,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKE1,Final Energy|Residential and Commercial|Liquids|Oil,GWh,2023,909.505700355934
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKE1,Final Energy|Transportation|Liquids|Biomass,GWh,2023,10.8355224975997
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKE1,Final Energy|Transportation|Liquids|Biomass,GWh,2023,371.878533255809
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKE1,Final Energy|Transportation|Solids|Biomass,GWh,2023,371.531815410872
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKE1,Final Energy|Transportation|Solids|Biomass,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKE2,Final Energy|Agriculture|Electricity,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKE2,Final Energy|Agriculture|Electricity,GWh,2023,42.4949992573207
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKE2,Final Energy|Agriculture|Gases|Gas,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKE2,Final Energy|Agriculture|Gases|Gas,GWh,2023,9.36330492110456
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKE2,Final Energy|Agriculture|Heat,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKE2,Final Energy|Agriculture|Heat,GWh,2023,0.43215253482021
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKE2,Final Energy|Agriculture|Liquids|Oil,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKE2,Final Energy|Agriculture|Liquids|Oil,GWh,2023,121.434862284479
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKE2,Final Energy|Agriculture|Solids|Biomass,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKE2,Final Energy|Agriculture|Solids|Biomass,GWh,2023,23.3362368802913
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKE2,Final Energy|Residential and Commercial|Electricity,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKE2,Final Energy|Residential and Commercial|Electricity,GWh,2023,2130.10721378935
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKE2,Final Energy|Residential and Commercial|Heat,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKE2,Final Energy|Residential and Commercial|Heat,GWh,2023,169.495500256061
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKE2,Final Energy|Residential and Commercial|Liquids|Oil,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKE2,Final Energy|Residential and Commercial|Liquids|Oil,GWh,2023,801.866230901147
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKE2,Final Energy|Transportation|Liquids|Biomass,GWh,2023,6.09498140489988
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKE2,Final Energy|Transportation|Liquids|Biomass,GWh,2023,327.866925625846
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKE2,Final Energy|Transportation|Solids|Biomass,GWh,2023,208.986646168615
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKE2,Final Energy|Transportation|Solids|Biomass,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKE3,Final Energy|Agriculture|Electricity,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKE3,Final Energy|Agriculture|Electricity,GWh,2023,72.3336561180882
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKE3,Final Energy|Agriculture|Gases|Gas,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKE3,Final Energy|Agriculture|Gases|Gas,GWh,2023,15.9379242294092
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKE3,Final Energy|Agriculture|Heat,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKE3,Final Energy|Agriculture|Heat,GWh,2023,0.735596502895812
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKE3,Final Energy|Agriculture|Liquids|Oil,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKE3,Final Energy|Agriculture|Liquids|Oil,GWh,2023,206.702617313723
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKE3,Final Energy|Agriculture|Solids|Biomass,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKE3,Final Energy|Agriculture|Solids|Biomass,GWh,2023,39.7222111563738
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKE3,Final Energy|Residential and Commercial|Electricity,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKE3,Final Energy|Residential and Commercial|Electricity,GWh,2023,3625.80175055197
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKE3,Final Energy|Residential and Commercial|Heat,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKE3,Final Energy|Residential and Commercial|Heat,GWh,2023,93.2703516759254
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKE3,Final Energy|Residential and Commercial|Liquids|Oil,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKE3,Final Energy|Residential and Commercial|Liquids|Oil,GWh,2023,1364.91157106489
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKE3,Final Energy|Transportation|Liquids|Biomass,GWh,2023,11.4459744692955
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKE3,Final Energy|Transportation|Liquids|Biomass,GWh,2023,558.084806805338
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKE3,Final Energy|Transportation|Solids|Biomass,GWh,2023,392.463185293175
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKE3,Final Energy|Transportation|Solids|Biomass,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKE4,Final Energy|Agriculture|Electricity,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKE4,Final Energy|Agriculture|Electricity,GWh,2023,119.759556682137
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKE4,Final Energy|Agriculture|Gases|Gas,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKE4,Final Energy|Agriculture|Gases|Gas,GWh,2023,26.3876989299626
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKE4,Final Energy|Agriculture|Heat,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKE4,Final Energy|Agriculture|Heat,GWh,2023,1.2178937967675
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKE4,Final Energy|Agriculture|Liquids|Oil,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKE4,Final Energy|Agriculture|Liquids|Oil,GWh,2023,342.228156891668
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKE4,Final Energy|Agriculture|Solids|Biomass,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKE4,Final Energy|Agriculture|Solids|Biomass,GWh,2023,65.7662650254452
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKE4,Final Energy|Residential and Commercial|Electricity,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKE4,Final Energy|Residential and Commercial|Electricity,GWh,2023,6003.07565754082
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKE4,Final Energy|Residential and Commercial|Heat,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKE4,Final Energy|Residential and Commercial|Heat,GWh,2023,149.951809161988
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKE4,Final Energy|Residential and Commercial|Liquids|Oil,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKE4,Final Energy|Residential and Commercial|Liquids|Oil,GWh,2023,2259.82223813205
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKE4,Final Energy|Transportation|Liquids|Biomass,GWh,2023,19.6489228389574
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKE4,Final Energy|Transportation|Liquids|Biomass,GWh,2023,923.995725377559
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKE4,Final Energy|Transportation|Solids|Biomass,GWh,2023,673.728468086618
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKE4,Final Energy|Transportation|Solids|Biomass,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKF1,Final Energy|Agriculture|Electricity,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKF1,Final Energy|Agriculture|Electricity,GWh,2023,113.881870556524
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKF1,Final Energy|Agriculture|Gases|Gas,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKF1,Final Energy|Agriculture|Gases|Gas,GWh,2023,25.0926155463528
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKF1,Final Energy|Agriculture|Heat,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKF1,Final Energy|Agriculture|Heat,GWh,2023,1.15812071752397
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKF1,Final Energy|Agriculture|Liquids|Oil,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKF1,Final Energy|Agriculture|Liquids|Oil,GWh,2023,325.431921624237
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKF1,Final Energy|Agriculture|Solids|Biomass,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKF1,Final Energy|Agriculture|Solids|Biomass,GWh,2023,62.5385187462947
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKF1,Final Energy|Residential and Commercial|Electricity,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKF1,Final Energy|Residential and Commercial|Electricity,GWh,2023,5708.45036432112
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKF1,Final Energy|Residential and Commercial|Heat,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKF1,Final Energy|Residential and Commercial|Heat,GWh,2023,182.045911615413
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKF1,Final Energy|Residential and Commercial|Liquids|Oil,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKF1,Final Energy|Residential and Commercial|Liquids|Oil,GWh,2023,2148.91229337769
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKF1,Final Energy|Transportation|Liquids|Biomass,GWh,2023,22.7393359456672
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKF1,Final Energy|Transportation|Liquids|Biomass,GWh,2023,878.646886373483
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKF1,Final Energy|Transportation|Solids|Biomass,GWh,2023,779.693528115776
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKF1,Final Energy|Transportation|Solids|Biomass,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKF2,Final Energy|Agriculture|Electricity,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKF2,Final Energy|Agriculture|Electricity,GWh,2023,94.6713379054721
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKF2,Final Energy|Agriculture|Gases|Gas,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKF2,Final Energy|Agriculture|Gases|Gas,GWh,2023,20.8597863181548
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKF2,Final Energy|Agriculture|Heat,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKF2,Final Energy|Agriculture|Heat,GWh,2023,0.962759368530224
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKF2,Final Energy|Agriculture|Liquids|Oil,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKF2,Final Energy|Agriculture|Liquids|Oil,GWh,2023,270.535382556993
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKF2,Final Energy|Agriculture|Solids|Biomass,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKF2,Final Energy|Agriculture|Solids|Biomass,GWh,2023,51.9890059006321
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKF2,Final Energy|Residential and Commercial|Electricity,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKF2,Final Energy|Residential and Commercial|Electricity,GWh,2023,4745.50190224548
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKF2,Final Energy|Residential and Commercial|Heat,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKF2,Final Energy|Residential and Commercial|Heat,GWh,2023,155.848532912021
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKF2,Final Energy|Residential and Commercial|Liquids|Oil,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKF2,Final Energy|Residential and Commercial|Liquids|Oil,GWh,2023,1786.4160542973
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKF2,Final Energy|Transportation|Liquids|Biomass,GWh,2023,18.5234020161433
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKF2,Final Energy|Transportation|Liquids|Biomass,GWh,2023,730.429486914406
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKF2,Final Energy|Transportation|Solids|Biomass,GWh,2023,635.136254866122
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKF2,Final Energy|Transportation|Solids|Biomass,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKF3,Final Energy|Agriculture|Electricity,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKF3,Final Energy|Agriculture|Electricity,GWh,2023,38.9642668497319
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKF3,Final Energy|Agriculture|Gases|Gas,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKF3,Final Energy|Agriculture|Gases|Gas,GWh,2023,8.58534693299179
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKF3,Final Energy|Agriculture|Heat,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKF3,Final Energy|Agriculture|Heat,GWh,2023,0.396246781522698
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKF3,Final Energy|Agriculture|Liquids|Oil,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKF3,Final Energy|Agriculture|Liquids|Oil,GWh,2023,111.345345607878
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKF3,Final Energy|Agriculture|Solids|Biomass,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKF3,Final Energy|Agriculture|Solids|Biomass,GWh,2023,21.3973262022257
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKF3,Final Energy|Residential and Commercial|Electricity,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKF3,Final Energy|Residential and Commercial|Electricity,GWh,2023,1953.12548175487
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKF3,Final Energy|Residential and Commercial|Heat,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKF3,Final Energy|Residential and Commercial|Heat,GWh,2023,117.936792093994
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKF3,Final Energy|Residential and Commercial|Liquids|Oil,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKF3,Final Energy|Residential and Commercial|Liquids|Oil,GWh,2023,735.242507228391
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKF3,Final Energy|Transportation|Liquids|Biomass,GWh,2023,5.68483398641678
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKF3,Final Energy|Transportation|Liquids|Biomass,GWh,2023,300.625829028245
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKF3,Final Energy|Transportation|Solids|Biomass,GWh,2023,194.923382028943
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKF3,Final Energy|Transportation|Solids|Biomass,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKG1,Final Energy|Agriculture|Electricity,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKG1,Final Energy|Agriculture|Electricity,GWh,2023,69.5965270389212
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKG1,Final Energy|Agriculture|Gases|Gas,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKG1,Final Energy|Agriculture|Gases|Gas,GWh,2023,15.3348279916267
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKG1,Final Energy|Agriculture|Heat,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKG1,Final Energy|Agriculture|Heat,GWh,2023,0.707761291921232
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKG1,Final Energy|Agriculture|Liquids|Oil,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKG1,Final Energy|Agriculture|Liquids|Oil,GWh,2023,198.880923029866
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKG1,Final Energy|Agriculture|Solids|Biomass,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKG1,Final Energy|Agriculture|Solids|Biomass,GWh,2023,38.2191097637465
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKG1,Final Energy|Residential and Commercial|Electricity,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKG1,Final Energy|Residential and Commercial|Electricity,GWh,2023,3488.60023276157
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKG1,Final Energy|Residential and Commercial|Heat,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKG1,Final Energy|Residential and Commercial|Heat,GWh,2023,149.906075296387
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKG1,Final Energy|Residential and Commercial|Liquids|Oil,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKG1,Final Energy|Residential and Commercial|Liquids|Oil,GWh,2023,1313.26287318137
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKG1,Final Energy|Transportation|Liquids|Biomass,GWh,2023,13.9927037887138
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKG1,Final Energy|Transportation|Liquids|Biomass,GWh,2023,536.966696159107
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKG1,Final Energy|Transportation|Solids|Biomass,GWh,2023,479.786244020907
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKG1,Final Energy|Transportation|Solids|Biomass,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKG2,Final Energy|Agriculture|Electricity,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKG2,Final Energy|Agriculture|Electricity,GWh,2023,83.8577807458283
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKG2,Final Energy|Agriculture|Gases|Gas,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKG2,Final Energy|Agriculture|Gases|Gas,GWh,2023,18.4771381304367
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKG2,Final Energy|Agriculture|Heat,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKG2,Final Energy|Agriculture|Heat,GWh,2023,0.852790990635542
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKG2,Final Energy|Agriculture|Liquids|Oil,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKG2,Final Energy|Agriculture|Liquids|Oil,GWh,2023,239.634268368587
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKG2,Final Energy|Agriculture|Solids|Biomass,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKG2,Final Energy|Agriculture|Solids|Biomass,GWh,2023,46.0507134943193
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKG2,Final Energy|Residential and Commercial|Electricity,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKG2,Final Energy|Residential and Commercial|Electricity,GWh,2023,4203.46080293866
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKG2,Final Energy|Residential and Commercial|Heat,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKG2,Final Energy|Residential and Commercial|Heat,GWh,2023,165.547370863608
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKG2,Final Energy|Residential and Commercial|Liquids|Oil,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKG2,Final Energy|Residential and Commercial|Liquids|Oil,GWh,2023,1582.36789630742
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKG2,Final Energy|Transportation|Liquids|Biomass,GWh,2023,16.5203564840166
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKG2,Final Energy|Transportation|Liquids|Biomass,GWh,2023,646.998311412009
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKG2,Final Energy|Transportation|Solids|Biomass,GWh,2023,566.455197439817
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKG2,Final Energy|Transportation|Solids|Biomass,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKG3,Final Energy|Agriculture|Electricity,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKG3,Final Energy|Agriculture|Electricity,GWh,2023,150.583824356331
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKG3,Final Energy|Agriculture|Gases|Gas,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKG3,Final Energy|Agriculture|Gases|Gas,GWh,2023,33.1794867225814
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKG3,Final Energy|Agriculture|Heat,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKG3,Final Energy|Agriculture|Heat,GWh,2023,1.5313609256576
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKG3,Final Energy|Agriculture|Liquids|Oil,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKG3,Final Energy|Agriculture|Liquids|Oil,GWh,2023,430.312420109787
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKG3,Final Energy|Agriculture|Solids|Biomass,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKG3,Final Energy|Agriculture|Solids|Biomass,GWh,2023,82.6934899855108
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKG3,Final Energy|Residential and Commercial|Electricity,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKG3,Final Energy|Residential and Commercial|Electricity,GWh,2023,7548.1749887583
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKG3,Final Energy|Residential and Commercial|Heat,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKG3,Final Energy|Residential and Commercial|Heat,GWh,2023,166.124077097837
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKG3,Final Energy|Residential and Commercial|Liquids|Oil,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKG3,Final Energy|Residential and Commercial|Liquids|Oil,GWh,2023,2841.46572023978
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKG3,Final Energy|Transportation|Liquids|Biomass,GWh,2023,23.7122437755573
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKG3,Final Energy|Transportation|Liquids|Biomass,GWh,2023,1161.81801161433
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKG3,Final Energy|Transportation|Solids|Biomass,GWh,2023,813.052898865696
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKG3,Final Energy|Transportation|Solids|Biomass,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKH1,Final Energy|Agriculture|Electricity,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKH1,Final Energy|Agriculture|Electricity,GWh,2023,129.889931641835
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKH1,Final Energy|Agriculture|Gases|Gas,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKH1,Final Energy|Agriculture|Gases|Gas,GWh,2023,28.6198154465061
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKH1,Final Energy|Agriculture|Heat,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKH1,Final Energy|Agriculture|Heat,GWh,2023,1.32091455906951
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKH1,Final Energy|Agriculture|Liquids|Oil,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKH1,Final Energy|Agriculture|Liquids|Oil,GWh,2023,371.176991098533
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKH1,Final Energy|Agriculture|Solids|Biomass,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKH1,Final Energy|Agriculture|Solids|Biomass,GWh,2023,71.3293861897537
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKH1,Final Energy|Residential and Commercial|Electricity,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKH1,Final Energy|Residential and Commercial|Electricity,GWh,2023,6510.87151957571
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKH1,Final Energy|Residential and Commercial|Heat,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKH1,Final Energy|Residential and Commercial|Heat,GWh,2023,292.529347036745
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKH1,Final Energy|Residential and Commercial|Liquids|Oil,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKH1,Final Energy|Residential and Commercial|Liquids|Oil,GWh,2023,2450.97897959613
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKH1,Final Energy|Transportation|Liquids|Biomass,GWh,2023,21.241820952601
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKH1,Final Energy|Transportation|Liquids|Biomass,GWh,2023,1002.15586072338
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKH1,Final Energy|Transportation|Solids|Biomass,GWh,2023,728.346261373252
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKH1,Final Energy|Transportation|Solids|Biomass,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKH2,Final Energy|Agriculture|Electricity,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKH2,Final Energy|Agriculture|Electricity,GWh,2023,96.2774398796588
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKH2,Final Energy|Agriculture|Gases|Gas,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKH2,Final Energy|Agriculture|Gases|Gas,GWh,2023,21.2136731938231
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKH2,Final Energy|Agriculture|Heat,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKH2,Final Energy|Agriculture|Heat,GWh,2023,0.979092608945682
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKH2,Final Energy|Agriculture|Liquids|Oil,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKH2,Final Energy|Agriculture|Liquids|Oil,GWh,2023,275.125023113736
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKH2,Final Energy|Agriculture|Solids|Biomass,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKH2,Final Energy|Agriculture|Solids|Biomass,GWh,2023,52.8710008830668
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKH2,Final Energy|Residential and Commercial|Electricity,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKH2,Final Energy|Residential and Commercial|Electricity,GWh,2023,4826.00947869183
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKH2,Final Energy|Residential and Commercial|Heat,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKH2,Final Energy|Residential and Commercial|Heat,GWh,2023,134.033294489658
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKH2,Final Energy|Residential and Commercial|Liquids|Oil,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKH2,Final Energy|Residential and Commercial|Liquids|Oil,GWh,2023,1816.72265410886
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKH2,Final Energy|Transportation|Liquids|Biomass,GWh,2023,15.3280674767983
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKH2,Final Energy|Transportation|Liquids|Biomass,GWh,2023,742.82124419694
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKH2,Final Energy|Transportation|Solids|Biomass,GWh,2023,525.573615638444
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKH2,Final Energy|Transportation|Solids|Biomass,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKH3,Final Energy|Agriculture|Electricity,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKH3,Final Energy|Agriculture|Electricity,GWh,2023,94.6809667521185
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKH3,Final Energy|Agriculture|Gases|Gas,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKH3,Final Energy|Agriculture|Gases|Gas,GWh,2023,20.8619079284328
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKH3,Final Energy|Agriculture|Heat,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKH3,Final Energy|Agriculture|Heat,GWh,2023,0.962857289004595
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKH3,Final Energy|Agriculture|Liquids|Oil,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKH3,Final Energy|Agriculture|Liquids|Oil,GWh,2023,270.562898210291
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKH3,Final Energy|Agriculture|Solids|Biomass,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKH3,Final Energy|Agriculture|Solids|Biomass,GWh,2023,51.9942936062481
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKH3,Final Energy|Residential and Commercial|Electricity,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKH3,Final Energy|Residential and Commercial|Electricity,GWh,2023,4745.98455846528
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKH3,Final Energy|Residential and Commercial|Heat,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKH3,Final Energy|Residential and Commercial|Heat,GWh,2023,137.682556706235
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKH3,Final Energy|Residential and Commercial|Liquids|Oil,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKH3,Final Energy|Residential and Commercial|Liquids|Oil,GWh,2023,1786.5977473695
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKH3,Final Energy|Transportation|Liquids|Biomass,GWh,2023,15.0991479874124
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKH3,Final Energy|Transportation|Liquids|Biomass,GWh,2023,730.503777546303
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKH3,Final Energy|Transportation|Solids|Biomass,GWh,2023,517.724351932581
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKH3,Final Energy|Transportation|Solids|Biomass,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKI3,Final Energy|Agriculture|Electricity,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKI3,Final Energy|Agriculture|Electricity,GWh,2023,60.7550197940123
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKI3,Final Energy|Agriculture|Gases|Gas,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKI3,Final Energy|Agriculture|Gases|Gas,GWh,2023,13.3866992766467
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKI3,Final Energy|Agriculture|Heat,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKI3,Final Energy|Agriculture|Heat,GWh,2023,0.617847658922159
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKI3,Final Energy|Agriculture|Liquids|Oil,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKI3,Final Energy|Agriculture|Liquids|Oil,GWh,2023,173.615192157126
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKI3,Final Energy|Agriculture|Solids|Biomass,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKI3,Final Energy|Agriculture|Solids|Biomass,GWh,2023,33.3637735817966
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKI3,Final Energy|Residential and Commercial|Electricity,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKI3,Final Energy|Residential and Commercial|Electricity,GWh,2023,3045.41024117905
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKI3,Final Energy|Residential and Commercial|Heat,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKI3,Final Energy|Residential and Commercial|Heat,GWh,2023,63.3594958643354
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKI3,Final Energy|Residential and Commercial|Liquids|Oil,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKI3,Final Energy|Residential and Commercial|Liquids|Oil,GWh,2023,1146.42662859104
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKI3,Final Energy|Transportation|Liquids|Biomass,GWh,2023,4.32085536215907
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKI3,Final Energy|Transportation|Liquids|Biomass,GWh,2023,468.75072136326
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKI3,Final Energy|Transportation|Solids|Biomass,GWh,2023,148.154852448173
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKI3,Final Energy|Transportation|Solids|Biomass,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKI4,Final Energy|Agriculture|Electricity,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKI4,Final Energy|Agriculture|Electricity,GWh,2023,124.395069822397
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKI4,Final Energy|Agriculture|Gases|Gas,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKI4,Final Energy|Agriculture|Gases|Gas,GWh,2023,27.4090831812063
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKI4,Final Energy|Agriculture|Heat,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKI4,Final Energy|Agriculture|Heat,GWh,2023,1.26503460836336
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKI4,Final Energy|Agriculture|Liquids|Oil,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKI4,Final Energy|Agriculture|Liquids|Oil,GWh,2023,355.474724950106
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKI4,Final Energy|Agriculture|Solids|Biomass,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKI4,Final Energy|Agriculture|Solids|Biomass,GWh,2023,68.3118688516218
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKI4,Final Energy|Residential and Commercial|Electricity,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKI4,Final Energy|Residential and Commercial|Electricity,GWh,2023,6235.43570348156
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKI4,Final Energy|Residential and Commercial|Heat,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKI4,Final Energy|Residential and Commercial|Heat,GWh,2023,129.575647822034
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKI4,Final Energy|Residential and Commercial|Liquids|Oil,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKI4,Final Energy|Residential and Commercial|Liquids|Oil,GWh,2023,2347.29279972836
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKI4,Final Energy|Transportation|Liquids|Biomass,GWh,2023,9.92938285211388
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKI4,Final Energy|Transportation|Liquids|Biomass,GWh,2023,959.760673455147
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKI4,Final Energy|Transportation|Solids|Biomass,GWh,2023,340.461813241829
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKI4,Final Energy|Transportation|Solids|Biomass,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKI5,Final Energy|Agriculture|Electricity,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKI5,Final Energy|Agriculture|Electricity,GWh,2023,99.6071054035168
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKI5,Final Energy|Agriculture|Gases|Gas,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKI5,Final Energy|Agriculture|Gases|Gas,GWh,2023,21.9473283092494
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKI5,Final Energy|Agriculture|Heat,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKI5,Final Energy|Agriculture|Heat,GWh,2023,1.01295361427305
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKI5,Final Energy|Agriculture|Liquids|Oil,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKI5,Final Energy|Agriculture|Liquids|Oil,GWh,2023,284.639965610727
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKI5,Final Energy|Agriculture|Solids|Biomass,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKI5,Final Energy|Agriculture|Solids|Biomass,GWh,2023,54.6994951707448
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKI5,Final Energy|Residential and Commercial|Electricity,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKI5,Final Energy|Residential and Commercial|Electricity,GWh,2023,4992.91251848078
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKI5,Final Energy|Residential and Commercial|Heat,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKI5,Final Energy|Residential and Commercial|Heat,GWh,2023,107.699718726184
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKI5,Final Energy|Residential and Commercial|Liquids|Oil,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKI5,Final Energy|Residential and Commercial|Liquids|Oil,GWh,2023,1879.55231384388
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKI5,Final Energy|Transportation|Liquids|Biomass,GWh,2023,12.6191868523983
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKI5,Final Energy|Transportation|Liquids|Biomass,GWh,2023,768.511024588727
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKI5,Final Energy|Transportation|Solids|Biomass,GWh,2023,432.690661785725
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKI5,Final Energy|Transportation|Solids|Biomass,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKI6,Final Energy|Agriculture|Electricity,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKI6,Final Energy|Agriculture|Electricity,GWh,2023,67.7573655615021
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKI6,Final Energy|Agriculture|Gases|Gas,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKI6,Final Energy|Agriculture|Gases|Gas,GWh,2023,14.9295890220259
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKI6,Final Energy|Agriculture|Heat,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKI6,Final Energy|Agriculture|Heat,GWh,2023,0.689057954862734
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKI6,Final Energy|Agriculture|Liquids|Oil,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKI6,Final Energy|Agriculture|Liquids|Oil,GWh,2023,193.625285316428
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKI6,Final Energy|Agriculture|Solids|Biomass,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKI6,Final Energy|Agriculture|Solids|Biomass,GWh,2023,37.2091295625876
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKI6,Final Energy|Residential and Commercial|Electricity,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKI6,Final Energy|Residential and Commercial|Electricity,GWh,2023,3396.41029985555
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKI6,Final Energy|Residential and Commercial|Heat,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKI6,Final Energy|Residential and Commercial|Heat,GWh,2023,72.4139040456765
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKI6,Final Energy|Residential and Commercial|Liquids|Oil,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKI6,Final Energy|Residential and Commercial|Liquids|Oil,GWh,2023,1278.55851954705
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKI6,Final Energy|Transportation|Liquids|Biomass,GWh,2023,7.4017301568111
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKI6,Final Energy|Transportation|Liquids|Biomass,GWh,2023,522.776786055108
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKI6,Final Energy|Transportation|Solids|Biomass,GWh,2023,253.792859822918
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKI6,Final Energy|Transportation|Solids|Biomass,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKI7,Final Energy|Agriculture|Electricity,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKI7,Final Energy|Agriculture|Electricity,GWh,2023,108.211411705775
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKI7,Final Energy|Agriculture|Gases|Gas,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKI7,Final Energy|Agriculture|Gases|Gas,GWh,2023,23.8431924097471
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKI7,Final Energy|Agriculture|Heat,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKI7,Final Energy|Agriculture|Heat,GWh,2023,1.10045503429602
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKI7,Final Energy|Agriculture|Liquids|Oil,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKI7,Final Energy|Agriculture|Liquids|Oil,GWh,2023,309.227864637182
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKI7,Final Energy|Agriculture|Solids|Biomass,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKI7,Final Energy|Agriculture|Solids|Biomass,GWh,2023,59.4245718519851
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKI7,Final Energy|Residential and Commercial|Electricity,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKI7,Final Energy|Residential and Commercial|Electricity,GWh,2023,5424.21255953059
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKI7,Final Energy|Residential and Commercial|Heat,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKI7,Final Energy|Residential and Commercial|Heat,GWh,2023,114.85450394341
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKI7,Final Energy|Residential and Commercial|Liquids|Oil,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKI7,Final Energy|Residential and Commercial|Liquids|Oil,GWh,2023,2041.9126570535
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKI7,Final Energy|Transportation|Liquids|Biomass,GWh,2023,12.3711907388969
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKI7,Final Energy|Transportation|Liquids|Biomass,GWh,2023,834.896893603153
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKI7,Final Energy|Transportation|Solids|Biomass,GWh,2023,424.18729277104
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKI7,Final Energy|Transportation|Solids|Biomass,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKJ1,Final Energy|Agriculture|Electricity,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKJ1,Final Energy|Agriculture|Electricity,GWh,2023,124.372964889505
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKJ1,Final Energy|Agriculture|Gases|Gas,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKJ1,Final Energy|Agriculture|Gases|Gas,GWh,2023,27.4042126027724
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKJ1,Final Energy|Agriculture|Heat,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKJ1,Final Energy|Agriculture|Heat,GWh,2023,1.26480981243565
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKJ1,Final Energy|Agriculture|Liquids|Oil,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKJ1,Final Energy|Agriculture|Liquids|Oil,GWh,2023,355.411557294418
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKJ1,Final Energy|Agriculture|Solids|Biomass,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKJ1,Final Energy|Agriculture|Solids|Biomass,GWh,2023,68.2997298715252
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKJ1,Final Energy|Residential and Commercial|Electricity,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKJ1,Final Energy|Residential and Commercial|Electricity,GWh,2023,6234.32767011678
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKJ1,Final Energy|Residential and Commercial|Heat,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKJ1,Final Energy|Residential and Commercial|Heat,GWh,2023,201.077447410642
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKJ1,Final Energy|Residential and Commercial|Liquids|Oil,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKJ1,Final Energy|Residential and Commercial|Liquids|Oil,GWh,2023,2346.87568713789
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKJ1,Final Energy|Transportation|Liquids|Biomass,GWh,2023,18.8858578743376
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKJ1,Final Energy|Transportation|Liquids|Biomass,GWh,2023,959.590124531388
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKJ1,Final Energy|Transportation|Solids|Biomass,GWh,2023,647.564255733739
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKJ1,Final Energy|Transportation|Solids|Biomass,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKJ2,Final Energy|Agriculture|Electricity,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKJ2,Final Energy|Agriculture|Electricity,GWh,2023,149.752741001179
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKJ2,Final Energy|Agriculture|Gases|Gas,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKJ2,Final Energy|Agriculture|Gases|Gas,GWh,2023,32.9963666612768
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKJ2,Final Energy|Agriculture|Heat,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKJ2,Final Energy|Agriculture|Heat,GWh,2023,1.52290923052047
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKJ2,Final Energy|Agriculture|Liquids|Oil,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKJ2,Final Energy|Agriculture|Liquids|Oil,GWh,2023,427.937493776252
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKJ2,Final Energy|Agriculture|Solids|Biomass,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKJ2,Final Energy|Agriculture|Solids|Biomass,GWh,2023,82.2370984481054
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKJ2,Final Energy|Residential and Commercial|Electricity,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKJ2,Final Energy|Residential and Commercial|Electricity,GWh,2023,7506.51604815333
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKJ2,Final Energy|Residential and Commercial|Heat,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKJ2,Final Energy|Residential and Commercial|Heat,GWh,2023,213.412534935236
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKJ2,Final Energy|Residential and Commercial|Liquids|Oil,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKJ2,Final Energy|Residential and Commercial|Liquids|Oil,GWh,2023,2825.78345905124
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKJ2,Final Energy|Transportation|Liquids|Biomass,GWh,2023,18.3421740870461
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKJ2,Final Energy|Transportation|Liquids|Biomass,GWh,2023,1155.40585137537
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKJ2,Final Energy|Transportation|Solids|Biomass,GWh,2023,628.922254432315
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKJ2,Final Energy|Transportation|Solids|Biomass,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKJ3,Final Energy|Agriculture|Electricity,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKJ3,Final Energy|Agriculture|Electricity,GWh,2023,102.763296383765
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKJ3,Final Energy|Agriculture|Gases|Gas,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKJ3,Final Energy|Agriculture|Gases|Gas,GWh,2023,22.6427602201516
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKJ3,Final Energy|Agriculture|Heat,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKJ3,Final Energy|Agriculture|Heat,GWh,2023,1.0450504716993
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKJ3,Final Energy|Agriculture|Liquids|Oil,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKJ3,Final Energy|Agriculture|Liquids|Oil,GWh,2023,293.659182547505
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKJ3,Final Energy|Agriculture|Solids|Biomass,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKJ3,Final Energy|Agriculture|Solids|Biomass,GWh,2023,56.4327254717625
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKJ3,Final Energy|Residential and Commercial|Electricity,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKJ3,Final Energy|Residential and Commercial|Electricity,GWh,2023,5151.11996153575
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKJ3,Final Energy|Residential and Commercial|Heat,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKJ3,Final Energy|Residential and Commercial|Heat,GWh,2023,157.32122336554
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKJ3,Final Energy|Residential and Commercial|Liquids|Oil,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKJ3,Final Energy|Residential and Commercial|Liquids|Oil,GWh,2023,1939.10856774592
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKJ3,Final Energy|Transportation|Liquids|Biomass,GWh,2023,18.4757104558546
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKJ3,Final Energy|Transportation|Liquids|Biomass,GWh,2023,792.862375370402
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKJ3,Final Energy|Transportation|Solids|Biomass,GWh,2023,633.500991594069
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKJ3,Final Energy|Transportation|Solids|Biomass,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKJ4,Final Energy|Agriculture|Electricity,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKJ4,Final Energy|Agriculture|Electricity,GWh,2023,95.2822519875792
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKJ4,Final Energy|Agriculture|Gases|Gas,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKJ4,Final Energy|Agriculture|Gases|Gas,GWh,2023,20.9943945057378
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKJ4,Final Energy|Agriculture|Heat,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKJ4,Final Energy|Agriculture|Heat,GWh,2023,0.968972054110975
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKJ4,Final Energy|Agriculture|Liquids|Oil,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKJ4,Final Energy|Agriculture|Liquids|Oil,GWh,2023,272.281147205184
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKJ4,Final Energy|Agriculture|Solids|Biomass,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKJ4,Final Energy|Agriculture|Solids|Biomass,GWh,2023,52.3244909219927
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKJ4,Final Energy|Residential and Commercial|Electricity,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKJ4,Final Energy|Residential and Commercial|Electricity,GWh,2023,4776.12462294309
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKJ4,Final Energy|Residential and Commercial|Heat,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKJ4,Final Energy|Residential and Commercial|Heat,GWh,2023,142.055458295186
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKJ4,Final Energy|Residential and Commercial|Liquids|Oil,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKJ4,Final Energy|Residential and Commercial|Liquids|Oil,GWh,2023,1797.94379593715
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKJ4,Final Energy|Transportation|Liquids|Biomass,GWh,2023,14.6794622568715
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKJ4,Final Energy|Transportation|Liquids|Biomass,GWh,2023,735.142947919762
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKJ4,Final Energy|Transportation|Solids|Biomass,GWh,2023,503.334035138498
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKJ4,Final Energy|Transportation|Solids|Biomass,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKK1,Final Energy|Agriculture|Electricity,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKK1,Final Energy|Agriculture|Electricity,GWh,2023,129.214048728862
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKK1,Final Energy|Agriculture|Gases|Gas,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKK1,Final Energy|Agriculture|Gases|Gas,GWh,2023,28.4708920928002
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKK1,Final Energy|Agriculture|Heat,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKK1,Final Energy|Agriculture|Heat,GWh,2023,1.31404117351385
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKK1,Final Energy|Agriculture|Liquids|Oil,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKK1,Final Energy|Agriculture|Liquids|Oil,GWh,2023,369.245569757393
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKK1,Final Energy|Agriculture|Solids|Biomass,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKK1,Final Energy|Agriculture|Solids|Biomass,GWh,2023,70.9582233697483
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKK1,Final Energy|Residential and Commercial|Electricity,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKK1,Final Energy|Residential and Commercial|Electricity,GWh,2023,6476.99216685745
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKK1,Final Energy|Residential and Commercial|Heat,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKK1,Final Energy|Residential and Commercial|Heat,GWh,2023,223.155301000872
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKK1,Final Energy|Residential and Commercial|Liquids|Oil,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKK1,Final Energy|Residential and Commercial|Liquids|Oil,GWh,2023,2438.22529814118
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKK1,Final Energy|Transportation|Liquids|Biomass,GWh,2023,22.6630294492052
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKK1,Final Energy|Transportation|Liquids|Biomass,GWh,2023,996.941137658738
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKK1,Final Energy|Transportation|Solids|Biomass,GWh,2023,777.077106880488
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKK1,Final Energy|Transportation|Solids|Biomass,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKK2,Final Energy|Agriculture|Electricity,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKK2,Final Energy|Agriculture|Electricity,GWh,2023,68.8445969446403
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKK2,Final Energy|Agriculture|Gases|Gas,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKK2,Final Energy|Agriculture|Gases|Gas,GWh,2023,15.1691484793275
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKK2,Final Energy|Agriculture|Heat,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKK2,Final Energy|Agriculture|Heat,GWh,2023,0.700114545199732
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKK2,Final Energy|Agriculture|Liquids|Oil,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKK2,Final Energy|Agriculture|Liquids|Oil,GWh,2023,196.732187201124
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKK2,Final Energy|Agriculture|Solids|Biomass,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKK2,Final Energy|Agriculture|Solids|Biomass,GWh,2023,37.8061854407855
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKK2,Final Energy|Residential and Commercial|Electricity,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKK2,Final Energy|Residential and Commercial|Electricity,GWh,2023,3450.90893387734
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKK2,Final Energy|Residential and Commercial|Heat,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKK2,Final Energy|Residential and Commercial|Heat,GWh,2023,137.332667017232
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKK2,Final Energy|Residential and Commercial|Liquids|Oil,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKK2,Final Energy|Residential and Commercial|Liquids|Oil,GWh,2023,1299.07420719385
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKK2,Final Energy|Transportation|Liquids|Biomass,GWh,2023,10.9118289940617
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKK2,Final Energy|Transportation|Liquids|Biomass,GWh,2023,531.165236867283
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKK2,Final Energy|Transportation|Solids|Biomass,GWh,2023,374.14823664616
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKK2,Final Energy|Transportation|Solids|Biomass,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKK3,Final Energy|Agriculture|Electricity,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKK3,Final Energy|Agriculture|Electricity,GWh,2023,29.2275874746818
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKK3,Final Energy|Agriculture|Gases|Gas,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKK3,Final Energy|Agriculture|Gases|Gas,GWh,2023,6.43997690120109
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKK3,Final Energy|Agriculture|Heat,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKK3,Final Energy|Agriculture|Heat,GWh,2023,0.297229703132358
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKK3,Final Energy|Agriculture|Liquids|Oil,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKK3,Final Energy|Agriculture|Liquids|Oil,GWh,2023,83.5215465801926
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKK3,Final Energy|Agriculture|Solids|Biomass,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKK3,Final Energy|Agriculture|Solids|Biomass,GWh,2023,16.0504039691473
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKK3,Final Energy|Residential and Commercial|Electricity,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKK3,Final Energy|Residential and Commercial|Electricity,GWh,2023,1465.06403128725
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKK3,Final Energy|Residential and Commercial|Heat,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKK3,Final Energy|Residential and Commercial|Heat,GWh,2023,72.2835776715284
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKK3,Final Energy|Residential and Commercial|Liquids|Oil,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKK3,Final Energy|Residential and Commercial|Liquids|Oil,GWh,2023,551.514667990475
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKK3,Final Energy|Transportation|Liquids|Biomass,GWh,2023,4.72146446858438
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKK3,Final Energy|Transportation|Liquids|Biomass,GWh,2023,225.503221938134
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKK3,Final Energy|Transportation|Solids|Biomass,GWh,2023,161.891063933433
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKK3,Final Energy|Transportation|Solids|Biomass,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKK4,Final Energy|Agriculture|Electricity,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKK4,Final Energy|Agriculture|Electricity,GWh,2023,61.4913159544914
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKK4,Final Energy|Agriculture|Gases|Gas,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKK4,Final Energy|Agriculture|Gases|Gas,GWh,2023,13.5489340238709
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKK4,Final Energy|Agriculture|Heat,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKK4,Final Energy|Agriculture|Heat,GWh,2023,0.625335416486353
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKK4,Final Energy|Agriculture|Liquids|Oil,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKK4,Final Energy|Agriculture|Liquids|Oil,GWh,2023,175.719252032665
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKK4,Final Energy|Agriculture|Solids|Biomass,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKK4,Final Energy|Agriculture|Solids|Biomass,GWh,2023,33.768112490263
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKK4,Final Energy|Residential and Commercial|Electricity,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKK4,Final Energy|Residential and Commercial|Electricity,GWh,2023,3082.31787243761
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKK4,Final Energy|Residential and Commercial|Heat,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKK4,Final Energy|Residential and Commercial|Heat,GWh,2023,141.87947880467
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKK4,Final Energy|Residential and Commercial|Liquids|Oil,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKK4,Final Energy|Residential and Commercial|Liquids|Oil,GWh,2023,1160.32028754737
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKK4,Final Energy|Transportation|Liquids|Biomass,GWh,2023,8.48909773139421
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKK4,Final Energy|Transportation|Liquids|Biomass,GWh,2023,474.431558231254
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKK4,Final Energy|Transportation|Solids|Biomass,GWh,2023,291.076862425771
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKK4,Final Energy|Transportation|Solids|Biomass,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKL1,Final Energy|Agriculture|Electricity,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKL1,Final Energy|Agriculture|Electricity,GWh,2023,101.654011835727
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKL1,Final Energy|Agriculture|Gases|Gas,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKL1,Final Energy|Agriculture|Gases|Gas,GWh,2023,22.398341590923
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKL1,Final Energy|Agriculture|Heat,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKL1,Final Energy|Agriculture|Heat,GWh,2023,1.03376961188875
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKL1,Final Energy|Agriculture|Liquids|Oil,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKL1,Final Energy|Agriculture|Liquids|Oil,GWh,2023,290.48926094074
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKL1,Final Energy|Agriculture|Solids|Biomass,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKL1,Final Energy|Agriculture|Solids|Biomass,GWh,2023,55.8235590419928
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKL1,Final Energy|Residential and Commercial|Electricity,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKL1,Final Energy|Residential and Commercial|Electricity,GWh,2023,5095.51588907509
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKL1,Final Energy|Residential and Commercial|Heat,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKL1,Final Energy|Residential and Commercial|Heat,GWh,2023,279.046340183357
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKL1,Final Energy|Residential and Commercial|Liquids|Oil,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKL1,Final Energy|Residential and Commercial|Liquids|Oil,GWh,2023,1918.17674435311
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKL1,Final Energy|Transportation|Liquids|Biomass,GWh,2023,16.1006707534757
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKL1,Final Energy|Transportation|Liquids|Biomass,GWh,2023,784.303775046467
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKL1,Final Energy|Transportation|Solids|Biomass,GWh,2023,552.064880645734
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKL1,Final Energy|Transportation|Solids|Biomass,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKL2,Final Energy|Agriculture|Electricity,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKL2,Final Energy|Agriculture|Electricity,GWh,2023,60.1997563040809
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKL2,Final Energy|Agriculture|Gases|Gas,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKL2,Final Energy|Agriculture|Gases|Gas,GWh,2023,13.26435308395
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKL2,Final Energy|Agriculture|Heat,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKL2,Final Energy|Agriculture|Heat,GWh,2023,0.612200911566924
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKL2,Final Energy|Agriculture|Liquids|Oil,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKL2,Final Energy|Agriculture|Liquids|Oil,GWh,2023,172.028456150305
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKL2,Final Energy|Agriculture|Solids|Biomass,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKL2,Final Energy|Agriculture|Solids|Biomass,GWh,2023,33.0588492246139
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKL2,Final Energy|Residential and Commercial|Electricity,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKL2,Final Energy|Residential and Commercial|Electricity,GWh,2023,3017.57706583777
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKL2,Final Energy|Residential and Commercial|Heat,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKL2,Final Energy|Residential and Commercial|Heat,GWh,2023,168.791429721031
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKL2,Final Energy|Residential and Commercial|Liquids|Oil,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKL2,Final Energy|Residential and Commercial|Liquids|Oil,GWh,2023,1135.94899476095
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKL2,Final Energy|Transportation|Liquids|Biomass,GWh,2023,10.0152276606336
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKL2,Final Energy|Transportation|Liquids|Biomass,GWh,2023,464.466628257299
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKL2,Final Energy|Transportation|Solids|Biomass,GWh,2023,343.405287131529
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKL2,Final Energy|Transportation|Solids|Biomass,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKM5,Final Energy|Agriculture|Electricity,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKM5,Final Energy|Agriculture|Electricity,GWh,2023,25.6056916319104
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKM5,Final Energy|Agriculture|Gases|Gas,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKM5,Final Energy|Agriculture|Gases|Gas,GWh,2023,5.64193205448874
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKM5,Final Energy|Agriculture|Heat,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKM5,Final Energy|Agriculture|Heat,GWh,2023,0.260396864053326
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKM5,Final Energy|Agriculture|Liquids|Oil,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKM5,Final Energy|Agriculture|Liquids|Oil,GWh,2023,73.1715187989848
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKM5,Final Energy|Agriculture|Solids|Biomass,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKM5,Final Energy|Agriculture|Solids|Biomass,GWh,2023,14.0614306588796
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKM5,Final Energy|Residential and Commercial|Electricity,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKM5,Final Energy|Residential and Commercial|Electricity,GWh,2023,1283.51263472023
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKM5,Final Energy|Residential and Commercial|Heat,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKM5,Final Energy|Residential and Commercial|Heat,GWh,2023,142.437913347858
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKM5,Final Energy|Residential and Commercial|Liquids|Oil,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKM5,Final Energy|Residential and Commercial|Liquids|Oil,GWh,2023,483.170721198682
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKM5,Final Energy|Transportation|Liquids|Biomass,GWh,2023,7.45896002915758
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKM5,Final Energy|Transportation|Liquids|Biomass,GWh,2023,197.558760809524
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKM5,Final Energy|Transportation|Solids|Biomass,GWh,2023,255.755175749385
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKM5,Final Energy|Transportation|Solids|Biomass,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKM6,Final Energy|Agriculture|Electricity,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKM6,Final Energy|Agriculture|Electricity,GWh,2023,24.369420197727
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKM6,Final Energy|Agriculture|Gases|Gas,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKM6,Final Energy|Agriculture|Gases|Gas,GWh,2023,5.36953326390595
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKM6,Final Energy|Agriculture|Heat,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKM6,Final Energy|Agriculture|Heat,GWh,2023,0.247824612180274
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKM6,Final Energy|Agriculture|Liquids|Oil,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKM6,Final Energy|Agriculture|Liquids|Oil,GWh,2023,69.6387160226572
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKM6,Final Energy|Agriculture|Solids|Biomass,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKM6,Final Energy|Agriculture|Solids|Biomass,GWh,2023,13.3825290577348
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKM6,Final Energy|Residential and Commercial|Electricity,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKM6,Final Energy|Residential and Commercial|Electricity,GWh,2023,1221.54320899534
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKM6,Final Energy|Residential and Commercial|Heat,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKM6,Final Energy|Residential and Commercial|Heat,GWh,2023,719.799466972218
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKM6,Final Energy|Residential and Commercial|Liquids|Oil,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKM6,Final Energy|Residential and Commercial|Liquids|Oil,GWh,2023,459.842698310702
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKM6,Final Energy|Transportation|Liquids|Biomass,GWh,2023,4.09193587277317
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKM6,Final Energy|Transportation|Liquids|Biomass,GWh,2023,188.020402850971
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKM6,Final Energy|Transportation|Solids|Biomass,GWh,2023,140.30558874231
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKM6,Final Energy|Transportation|Solids|Biomass,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKM7,Final Energy|Agriculture|Electricity,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKM7,Final Energy|Agriculture|Electricity,GWh,2023,102.930662304234
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKM7,Final Energy|Agriculture|Gases|Gas,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKM7,Final Energy|Agriculture|Gases|Gas,GWh,2023,22.6796374568651
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKM7,Final Energy|Agriculture|Heat,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKM7,Final Energy|Agriculture|Heat,GWh,2023,1.04675249800916
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKM7,Final Energy|Agriculture|Liquids|Oil,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKM7,Final Energy|Agriculture|Liquids|Oil,GWh,2023,294.137451940574
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKM7,Final Energy|Agriculture|Solids|Biomass,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKM7,Final Energy|Agriculture|Solids|Biomass,GWh,2023,56.5246348924946
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKM7,Final Energy|Residential and Commercial|Electricity,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKM7,Final Energy|Residential and Commercial|Electricity,GWh,2023,5159.50935701202
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKM7,Final Energy|Residential and Commercial|Heat,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKM7,Final Energy|Residential and Commercial|Heat,GWh,2023,320.6084645371
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKM7,Final Energy|Residential and Commercial|Liquids|Oil,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKM7,Final Energy|Residential and Commercial|Liquids|Oil,GWh,2023,1942.26670593096
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKM7,Final Energy|Transportation|Liquids|Biomass,GWh,2023,16.5775863563631
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKM7,Final Energy|Transportation|Liquids|Biomass,GWh,2023,794.153674364583
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKM7,Final Energy|Transportation|Solids|Biomass,GWh,2023,568.417513366283
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKM7,Final Energy|Transportation|Solids|Biomass,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKM8,Final Energy|Agriculture|Electricity,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKM8,Final Energy|Agriculture|Electricity,GWh,2023,79.5371205373011
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKM8,Final Energy|Agriculture|Gases|Gas,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKM8,Final Energy|Agriculture|Gases|Gas,GWh,2023,17.5251282539816
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKM8,Final Energy|Agriculture|Heat,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKM8,Final Energy|Agriculture|Heat,GWh,2023,0.808852073260689
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKM8,Final Energy|Agriculture|Liquids|Oil,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKM8,Final Energy|Agriculture|Liquids|Oil,GWh,2023,227.287432586253
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKM8,Final Energy|Agriculture|Solids|Biomass,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKM8,Final Energy|Agriculture|Solids|Biomass,GWh,2023,43.6780119560772
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKM8,Final Energy|Residential and Commercial|Electricity,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKM8,Final Energy|Residential and Commercial|Electricity,GWh,2023,3986.88309639991
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKM8,Final Energy|Residential and Commercial|Heat,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKM8,Final Energy|Residential and Commercial|Heat,GWh,2023,111.743377295176
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKM8,Final Energy|Residential and Commercial|Liquids|Oil,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKM8,Final Energy|Residential and Commercial|Liquids|Oil,GWh,2023,1500.83850280309
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKM8,Final Energy|Transportation|Liquids|Biomass,GWh,2023,12.0182731927603
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKM8,Final Energy|Transportation|Liquids|Biomass,GWh,2023,613.662587114997
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKM8,Final Energy|Transportation|Solids|Biomass,GWh,2023,412.086344557834
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKM8,Final Energy|Transportation|Solids|Biomass,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKM9,Final Energy|Agriculture|Electricity,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKM9,Final Energy|Agriculture|Electricity,GWh,2023,49.015850924507
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKM9,Final Energy|Agriculture|Gases|Gas,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKM9,Final Energy|Agriculture|Gases|Gas,GWh,2023,10.8001027460778
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKM9,Final Energy|Agriculture|Heat,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKM9,Final Energy|Agriculture|Heat,GWh,2023,0.498466280588207
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKM9,Final Energy|Agriculture|Liquids|Oil,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKM9,Final Energy|Agriculture|Liquids|Oil,GWh,2023,140.069024845286
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKM9,Final Energy|Agriculture|Solids|Biomass,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKM9,Final Energy|Agriculture|Solids|Biomass,GWh,2023,26.9171791517631
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKM9,Final Energy|Residential and Commercial|Electricity,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKM9,Final Energy|Residential and Commercial|Electricity,GWh,2023,2456.97186655037
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKM9,Final Energy|Residential and Commercial|Heat,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKM9,Final Energy|Residential and Commercial|Heat,GWh,2023,316.387938689798
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKM9,Final Energy|Residential and Commercial|Liquids|Oil,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKM9,Final Energy|Residential and Commercial|Liquids|Oil,GWh,2023,924.912491402761
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKM9,Final Energy|Transportation|Liquids|Biomass,GWh,2023,8.60355747608713
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKM9,Final Energy|Transportation|Liquids|Biomass,GWh,2023,378.178059310929
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKM9,Final Energy|Transportation|Solids|Biomass,GWh,2023,295.001494278702
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKM9,Final Energy|Transportation|Solids|Biomass,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKN0,Final Energy|Agriculture|Electricity,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKN0,Final Energy|Agriculture|Electricity,GWh,2023,97.1145283219662
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKN0,Final Energy|Agriculture|Gases|Gas,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKN0,Final Energy|Agriculture|Gases|Gas,GWh,2023,21.3981164099247
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKN0,Final Energy|Agriculture|Heat,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKN0,Final Energy|Agriculture|Heat,GWh,2023,0.987605372765758
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKN0,Final Energy|Agriculture|Liquids|Oil,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKN0,Final Energy|Agriculture|Liquids|Oil,GWh,2023,277.517109747178
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKN0,Final Energy|Agriculture|Solids|Biomass,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKN0,Final Energy|Agriculture|Solids|Biomass,GWh,2023,53.3306901293509
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKN0,Final Energy|Residential and Commercial|Electricity,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKN0,Final Energy|Residential and Commercial|Electricity,GWh,2023,4867.9694307027
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKN0,Final Energy|Residential and Commercial|Heat,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKN0,Final Energy|Residential and Commercial|Heat,GWh,2023,293.620163306092
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKN0,Final Energy|Residential and Commercial|Liquids|Oil,GWh,2023,0.0
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKN0,Final Energy|Residential and Commercial|Liquids|Oil,GWh,2023,1832.51822925641
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKN0,Final Energy|Transportation|Liquids|Biomass,GWh,2023,14.5936174483518
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKN0,Final Energy|Transportation|Liquids|Biomass,GWh,2023,749.279736227835
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKN0,Final Energy|Transportation|Solids|Biomass,GWh,2023,500.390561248798
+Sector models shares,GeoMEC_N2 v0.1.0,Unknown,UKN0,Final Energy|Transportation|Solids|Biomass,GWh,2023,0.0
